@@ -1,12 +1,14 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { LandingSampleQuestions } from "@/components/LandingSampleQuestions";
+import { PracticeTestingStat } from "@/components/PracticeTestingStat";
 import { LandingWave } from "@/components/LandingWave";
 import { FaqSection } from "@/components/FaqSection";
 import { ReviewsSection } from "@/components/ReviewsSection";
+import { WhyPracticeSection } from "@/components/WhyPracticeSection";
 import { PricingOptions, WhatsIncluded } from "@/components/PricingPlans";
 import { SectionHeading } from "@/components/SectionCard";
 import { useQuestions } from "@/context/QuestionsContext";
@@ -17,7 +19,7 @@ import {
   EXAM_PRACTICE_QUESTIONS_PER_CASE,
   STORAGE_KEYS,
 } from "@/lib/constants";
-import { clearSessionItem, getMistakeIds, setSessionItem } from "@/lib/storage";
+import { clearSessionItem, setSessionItem } from "@/lib/storage";
 import { createExamPracticeSession } from "@/lib/quiz-utils";
 import { cn } from "@/lib/utils";
 
@@ -39,12 +41,7 @@ const modeCopy: Record<ExamType, { title: string; body: string; cta: string }> =
 export default function HomePage() {
   const router = useRouter();
   const { questions } = useQuestions();
-  const [mistakeCount, setMistakeCount] = useState(0);
   const [examType, setExamType] = useState<ExamType>("adaptive");
-
-  useEffect(() => {
-    setMistakeCount(getMistakeIds().length);
-  }, []);
 
   function startExamPractice() {
     clearSessionItem(STORAGE_KEYS.examPracticeSession);
@@ -141,22 +138,12 @@ export default function HomePage() {
           <section className="mt-10 space-y-6">
             <SectionHeading className="text-center">Sample questions</SectionHeading>
             <LandingSampleQuestions questions={questions} />
+            <PracticeTestingStat />
           </section>
-
-          {mistakeCount > 0 ? (
-            <div className="mt-6 text-center">
-              <button
-                type="button"
-                onClick={() => router.push("/review")}
-                className="text-sm font-medium text-blue-600 underline-offset-4 hover:text-blue-800 hover:underline"
-              >
-                Review mistakes ({mistakeCount})
-              </button>
-            </div>
-          ) : null}
           </div>
 
-          <div className="mx-auto w-full max-w-5xl">
+          <div className="mx-auto w-full max-w-5xl space-y-10">
+            <WhyPracticeSection />
             <ReviewsSection />
           </div>
 
