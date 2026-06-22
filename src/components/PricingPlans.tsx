@@ -12,8 +12,8 @@ const includedFeatures = [
 ];
 
 const plans = [
-  { price: "£30", label: "1 Month Access", featured: false },
-  { price: "£60", label: "3 Months Access", featured: true },
+  { price: "£50", label: "1 Month Access", featured: false },
+  { price: "£100", label: "3 Months Access", featured: true },
 ] as const;
 
 export function WhatsIncluded({ showHeading = true }: { showHeading?: boolean }) {

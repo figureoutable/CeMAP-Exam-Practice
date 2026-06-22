@@ -34,7 +34,7 @@ export const faqs: FaqItem[] = [
   {
     question: "How long will I have access for?",
     answer: "You can choose between:",
-    bullets: ["£30 for 1 month access", "£60 for 3 months access (our most popular option)"],
+    bullets: ["£50 for 1 month access", "£100 for 3 months access (our most popular option)"],
     footer: "Access remains available for the full duration of your chosen plan.",
   },
   {
