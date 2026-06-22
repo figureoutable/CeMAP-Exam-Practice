@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { LandingSampleQuestions } from "@/components/LandingSampleQuestions";
 import { LandingWave } from "@/components/LandingWave";
+import { PricingOptions, WhatsIncluded } from "@/components/PricingPlans";
 import { useQuestions } from "@/context/QuestionsContext";
 import { createAdaptiveSession } from "@/lib/adaptive-exam";
 import {
@@ -64,33 +65,32 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen">
-      <section className="relative min-h-[52vh] overflow-hidden bg-stone-100 pb-32 pt-10 text-blue-950 md:min-h-[58vh] md:pb-44 md:pt-14">
-        <div className="mx-auto max-w-6xl space-y-10 px-6 py-8 md:px-10 md:py-12">
+      <section className="relative overflow-hidden bg-stone-100 pb-14 pt-8 text-blue-950 md:pb-16 md:pt-10">
+        <div className="mx-auto max-w-6xl space-y-6 px-6 py-4 md:space-y-8 md:px-10 md:py-6">
           <div className="text-center">
-            <Image
-              src="/hero-title.jpg"
-              alt="CeMAP Practice Questions. Practice Smarter = Pass Faster"
-              width={1024}
-              height={271}
-              className="mx-auto h-auto w-full max-w-5xl"
-              priority
-            />
+            <h1 className="font-heading text-4xl font-bold tracking-tight text-brand-blue sm:text-5xl md:text-6xl">
+              CeMAP Practice Questions
+            </h1>
+            <p className="font-heading mt-3 text-2xl font-normal text-brand-blue sm:text-3xl md:text-4xl">
+              Practice Smarter = Pass Faster
+            </p>
           </div>
 
           <Image
-            src="/hero-practice-modes.jpg"
+            src="/hero-practice-modes-blue.jpg"
             alt="Two practice modes: sample exam and adaptive exam"
             width={1024}
             height={512}
-            className="mx-auto h-auto w-full max-w-4xl"
+            className="mx-auto h-auto w-[85%] max-w-[47.6rem]"
             priority
           />
+
         </div>
 
         <LandingWave className="absolute bottom-0 left-0 right-0" fill="#ffffff" />
       </section>
 
-      <section className="bg-white px-6 pb-16 pt-8 md:pb-20 md:pt-10">
+      <section className="bg-white px-6 pb-16 pt-4 md:pb-20 md:pt-6">
         <div className="mx-auto max-w-3xl md:px-4">
           <div className="text-center">
             <h2 className="font-heading text-3xl font-normal text-blue-950 sm:text-4xl md:text-5xl">
@@ -139,19 +139,27 @@ export default function HomePage() {
           <div className="mt-12">
             <LandingSampleQuestions questions={questions} />
           </div>
+
+          {mistakeCount > 0 ? (
+            <div className="mt-6 text-center">
+              <button
+                type="button"
+                onClick={() => router.push("/review")}
+                className="text-sm font-medium text-blue-600 underline-offset-4 hover:text-blue-800 hover:underline"
+              >
+                Review mistakes ({mistakeCount})
+              </button>
+            </div>
+          ) : null}
+
+          <div className="mt-10">
+            <WhatsIncluded />
+          </div>
         </div>
 
-        {mistakeCount > 0 ? (
-          <div className="mx-auto mt-16 max-w-3xl text-center">
-            <button
-              type="button"
-              onClick={() => router.push("/review")}
-              className="text-sm font-medium text-blue-600 underline-offset-4 hover:text-blue-800 hover:underline"
-            >
-              Review mistakes ({mistakeCount})
-            </button>
-          </div>
-        ) : null}
+        <div className="mx-auto mt-6 max-w-3xl px-4 md:px-4">
+          <PricingOptions />
+        </div>
       </section>
     </div>
   );

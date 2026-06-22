@@ -48,14 +48,14 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-50 bg-stone-100 px-4 py-4 md:px-6">
       <nav
-        className="mx-auto flex max-w-6xl items-center justify-between gap-4 rounded-full border border-blue-200 bg-white px-4 py-2.5 shadow-none md:px-6"
+        className="mx-auto flex max-w-6xl items-center justify-between gap-4 rounded-full bg-white px-4 py-2.5 shadow-none md:px-6"
         aria-label="Main"
       >
         <Link
           href="/"
-          className="shrink-0 text-base font-bold tracking-tight text-blue-950 md:text-lg"
+          className="font-heading shrink-0 text-base font-bold tracking-tight text-brand-blue md:text-lg"
         >
-          CeMAP Part 1
+          CeMAP Practice Questions
         </Link>
 
         <ul className="flex items-center gap-1 sm:gap-2">
@@ -69,8 +69,8 @@ export function SiteNav() {
                   className={cn(
                     "rounded-full px-3 py-1.5 text-sm font-medium transition-colors sm:px-4",
                     isActive
-                      ? "bg-blue-600 text-white"
-                      : "text-blue-800 hover:bg-blue-50 hover:text-blue-950"
+                      ? "bg-brand-blue text-white"
+                      : "text-brand-blue hover:bg-blue-50 hover:text-blue-900"
                   )}
                 >
                   {link.label}

@@ -39,6 +39,7 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
+  --color-brand-blue: var(--brand-blue);
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
@@ -49,6 +50,7 @@
 }
 
 :root {
+  --brand-blue: #2e5bff;
   --background: #ffffff;
   --foreground: #1e3a8a;
   --card: #ffffff;

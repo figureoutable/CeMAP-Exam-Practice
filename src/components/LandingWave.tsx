@@ -8,7 +8,7 @@ export function LandingWave({ fill = "#ffffff", className }: LandingWaveProps) {
   return (
     <div className={className} aria-hidden>
       <svg
-        className="block h-24 w-full md:h-40"
+        className="block h-12 w-full md:h-20"
         viewBox="0 0 1440 120"
         preserveAspectRatio="none"
         xmlns="http://www.w3.org/2000/svg"
