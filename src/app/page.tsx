@@ -1,65 +1,158 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
+import Image from "next/image";
+import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
+import { LandingSampleQuestions } from "@/components/LandingSampleQuestions";
+import { LandingWave } from "@/components/LandingWave";
+import { useQuestions } from "@/context/QuestionsContext";
+import { createAdaptiveSession } from "@/lib/adaptive-exam";
+import {
+  EXAM_PRACTICE_CASE_STUDY_COUNT,
+  EXAM_PRACTICE_GENERAL_COUNT,
+  EXAM_PRACTICE_QUESTIONS_PER_CASE,
+  STORAGE_KEYS,
+} from "@/lib/constants";
+import { clearSessionItem, getMistakeIds, setSessionItem } from "@/lib/storage";
+import { createExamPracticeSession } from "@/lib/quiz-utils";
+import { cn } from "@/lib/utils";
+
+type ExamType = "adaptive" | "exam-paper";
+
+const modeCopy: Record<ExamType, { title: string; body: string; cta: string }> = {
+  adaptive: {
+    title: "Adaptive exam",
+    body: "40 questions from random syllabus topics. Get one wrong and you drill that topic with extra questions until you are back on track.",
+    cta: "Start adaptive exam",
+  },
+  "exam-paper": {
+    title: "Exam paper",
+    body: `A full 40-question sitting: ${EXAM_PRACTICE_GENERAL_COUNT} general questions plus ${EXAM_PRACTICE_CASE_STUDY_COUNT} case studies of ${EXAM_PRACTICE_QUESTIONS_PER_CASE} questions each.`,
+    cta: "Start exam paper",
+  },
+};
+
+export default function HomePage() {
+  const router = useRouter();
+  const { questions } = useQuestions();
+  const [mistakeCount, setMistakeCount] = useState(0);
+  const [examType, setExamType] = useState<ExamType>("adaptive");
+
+  useEffect(() => {
+    setMistakeCount(getMistakeIds().length);
+  }, []);
+
+  function startExamPractice() {
+    clearSessionItem(STORAGE_KEYS.examPracticeSession);
+    setSessionItem(STORAGE_KEYS.examPracticeSession, createExamPracticeSession(questions));
+    router.push("/exam-practice");
+  }
+
+  function startAdaptivePractice() {
+    clearSessionItem(STORAGE_KEYS.adaptiveExamSession);
+    setSessionItem(STORAGE_KEYS.adaptiveExamSession, createAdaptiveSession());
+    router.push("/adaptive");
+  }
+
+  function startFullExam() {
+    if (examType === "adaptive") {
+      startAdaptivePractice();
+    } else {
+      startExamPractice();
+    }
+  }
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+    <div className="min-h-screen">
+      <section className="relative min-h-[52vh] overflow-hidden bg-stone-100 pb-32 pt-10 text-blue-950 md:min-h-[58vh] md:pb-44 md:pt-14">
+        <div className="mx-auto max-w-6xl space-y-10 px-6 py-8 md:px-10 md:py-12">
+          <div className="text-center">
             <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+              src="/hero-title.jpg"
+              alt="CeMAP Practice Questions. Practice Smarter = Pass Faster"
+              width={1024}
+              height={271}
+              className="mx-auto h-auto w-full max-w-5xl"
+              priority
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+          </div>
+
+          <Image
+            src="/hero-practice-modes.jpg"
+            alt="Two practice modes: sample exam and adaptive exam"
+            width={1024}
+            height={512}
+            className="mx-auto h-auto w-full max-w-4xl"
+            priority
+          />
         </div>
-      </main>
+
+        <LandingWave className="absolute bottom-0 left-0 right-0" fill="#ffffff" />
+      </section>
+
+      <section className="bg-white px-6 pb-16 pt-8 md:pb-20 md:pt-10">
+        <div className="mx-auto max-w-3xl md:px-4">
+          <div className="text-center">
+            <h2 className="font-heading text-3xl font-normal text-blue-950 sm:text-4xl md:text-5xl">
+              Choose your exam
+            </h2>
+            <p className="mx-auto mt-3 max-w-lg text-base text-blue-700">
+              Pick adaptive or a full exam paper, then try the sample below.
+            </p>
+
+            <div className="mt-6 flex flex-col items-center justify-center gap-4 sm:flex-row sm:items-center sm:flex-wrap">
+              <div className="inline-flex h-10 rounded-full border border-blue-200 bg-blue-50 p-1">
+                {(["adaptive", "exam-paper"] as const).map((type) => (
+                  <button
+                    key={type}
+                    type="button"
+                    onClick={() => setExamType(type)}
+                    className={cn(
+                      "h-full rounded-full px-5 text-sm font-semibold transition-colors",
+                      examType === type
+                        ? "bg-blue-600 text-white"
+                        : "text-blue-700 hover:text-blue-900"
+                    )}
+                  >
+                    {type === "adaptive" ? "Adaptive" : "Exam paper"}
+                  </button>
+                ))}
+              </div>
+
+              <button
+                type="button"
+                onClick={startFullExam}
+                className="inline-flex h-10 items-center rounded-full bg-blue-600 px-6 text-sm font-bold text-white transition-colors hover:bg-blue-700"
+              >
+                {modeCopy[examType].cta}
+              </button>
+            </div>
+
+            <h3 className="mt-6 text-lg font-semibold text-blue-950">
+              {modeCopy[examType].title}
+            </h3>
+            <p className="mx-auto mt-2 max-w-lg text-base leading-relaxed text-blue-700">
+              {modeCopy[examType].body}
+            </p>
+          </div>
+
+          <div className="mt-12">
+            <LandingSampleQuestions questions={questions} />
+          </div>
+        </div>
+
+        {mistakeCount > 0 ? (
+          <div className="mx-auto mt-16 max-w-3xl text-center">
+            <button
+              type="button"
+              onClick={() => router.push("/review")}
+              className="text-sm font-medium text-blue-600 underline-offset-4 hover:text-blue-800 hover:underline"
+            >
+              Review mistakes ({mistakeCount})
+            </button>
+          </div>
+        ) : null}
+      </section>
     </div>
   );
 }

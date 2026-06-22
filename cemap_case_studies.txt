@@ -1,0 +1,369 @@
+CASE STUDY 1: RETIREMENT PLANNING
+
+Peter, aged 61, and Diane, aged 59, are married and meeting with their financial adviser to review their retirement plans. Peter is a senior manager at a manufacturing firm and has a defined benefit (DB) pension scheme through his employer, which will pay him two-thirds of his final salary of £54,000 on retirement. Diane is self-employed as a graphic designer and has a personal pension (a defined contribution scheme) currently valued at £210,000. She earns £36,000 per year and pays £200 per month into her pension from her own earnings.
+
+They own their home jointly as joint tenants, valued at £480,000, with no mortgage. They have two adult children. Their combined savings outside of pensions total £45,000. They are concerned about inheritance tax and want to understand how to make the most of their pension savings.
+
+---
+
+301. [Case Study: Retirement Planning]
+With their pension arrangements, which of the following statements is TRUE?
+A. Diane bears the investment risk with her pension, and Peter's employer bears the risk with his
+B. Both Peter and Diane bear their own investment risk, since both schemes are defined contribution
+C. Peter bears the investment risk and his employer guarantees nothing
+D. Neither Peter nor Diane bears any investment risk because both are in employer-sponsored schemes
+Answer: A
+Explanation: Diane's defined contribution pension outcome depends on her own investment choices and fund performance, while Peter's defined benefit scheme promises a fixed income for life, with the employer bearing the investment and longevity risk.
+
+302. [Case Study: Retirement Planning]
+Diane pays £200 per month into her personal pension from her own earnings. She is a basic rate taxpayer. What total amount is credited to her pension each month, including tax relief?
+A. £160
+B. £200
+C. £250
+D. £240
+Answer: C
+Explanation: Diane pays £200 from her own pocket; the government adds 20% basic rate tax relief, so £200 represents 80% of the gross contribution, meaning £250 is credited to the pension each month.
+
+303. [Case Study: Retirement Planning]
+Diane is considering taking the maximum tax-free cash from her pension at retirement, when it is projected to be worth £280,000. What is the maximum tax-free lump sum she could normally take?
+A. £42,000
+B. £56,000
+C. £70,000
+D. £84,000
+Answer: C
+Explanation: Up to 25% of a pension fund can normally be taken as tax-free cash; 25% of £280,000 = £70,000.
+
+304. [Case Study: Retirement Planning]
+Peter and Diane own their home as joint tenants. If Diane were to die first, which of the following correctly describes what happens to her share of the property?
+A. Diane's half passes under her will or intestacy rules to whoever she has named
+B. The property passes automatically to Peter by survivorship, outside Diane's estate
+C. The property is split equally between Peter and their two children
+D. The property must be sold and the proceeds distributed before Peter can continue living there
+Answer: B
+Explanation: Under joint tenancy, on the death of one owner the property passes automatically to the surviving owner by survivorship, outside the estate, regardless of what the will states.
+
+305. [Case Study: Retirement Planning]
+Peter and Diane are concerned about inheritance tax on their estate. Their home is worth £480,000 and their combined other assets total £255,000, giving a combined estate of £735,000. Assuming each has the standard NRB of £325,000 and the RNRB of £175,000, and the property will pass to their adult children, what is the combined IHT allowance available to the couple?
+A. £500,000
+B. £650,000
+C. £750,000
+D. £1,000,000
+Answer: D
+Explanation: Each person has a £325,000 NRB and a £175,000 RNRB (assuming the main residence passes to direct descendants), giving £500,000 per person and £1,000,000 combined for the couple.
+
+CASE STUDY 2: FAMILY PROTECTION
+
+James, aged 34, and Natasha, aged 32, are married with two children aged 3 and 6. They have a repayment mortgage of £240,000 outstanding, taken out on a 25-year term, with 22 years remaining. James works full-time as a teacher earning £42,000 a year. Natasha works part-time as a nurse earning £19,000 a year.
+
+James has a death-in-service benefit of three times salary through his employer but no other personal protection. Natasha has no life cover or income protection. They have no critical illness cover. They are reviewing their protection needs with an adviser. Natasha is particularly concerned about what would happen to the family's finances if James became too ill to work long-term.
+
+---
+
+306. [Case Study: Family Protection]
+James is considering income protection insurance. With a 13-week deferred period and a benefit cap of 55% of pre-disability earnings, what would James's maximum monthly IPI benefit be?
+A. £1,050
+B. £1,483
+C. £1,925
+D. £2,310
+Answer: C
+Explanation: £42,000 divided by 12 = £3,500 per month; multiplied by 55% = £1,925, within the typical IPI benefit cap of 50% to 65% of pre-disability earnings.
+
+307. [Case Study: Family Protection]
+Natasha suggests they take out an Accident, Sickness and Unemployment (ASU) policy instead of IPI for James, as it is cheaper. Which of the following is the most important limitation the adviser should highlight?
+A. ASU is not regulated by the FCA
+B. ASU only covers accidents and does not cover sickness
+C. ASU is typically limited to a maximum payout period of 12 to 24 months and can be declined for renewal by the insurer, unlike the long-term non-cancellable protection of IPI
+D. ASU premiums always increase by 10% each year
+Answer: C
+Explanation: ASU provides only short-term cover, typically a maximum of 12 to 24 months, and as an annual contract can be declined for renewal; IPI provides long-term, non-cancellable protection more suited to a sustained inability to work.
+
+308. [Case Study: Family Protection]
+James and Natasha take out a joint life, first death term assurance policy to cover the mortgage. They have been told that writing it in trust for each other would be beneficial. What is the main IHT advantage of placing a life policy in trust?
+A. It reduces the premium payable on the policy
+B. It allows the policy to be cashed in before death
+C. It ensures the life cover paid on a claim is exempt from all taxes completely
+D. Proceeds pass directly to the trust beneficiaries outside the estate, avoiding probate delay and a potential inheritance tax charge
+Answer: D
+Explanation: Writing a life policy in trust means the proceeds bypass the estate entirely, avoiding probate delay and a potential IHT charge on an already-distressed family.
+
+309. [Case Study: Family Protection]
+When James applies for the critical illness policy, he forgets to mention a minor heart murmur that was diagnosed five years ago but required no treatment and has not recurred. The murmur turns out to be material. Under CIDRA 2012, how would this omission most likely be treated?
+A. As a deliberate misrepresentation, allowing the insurer to void the policy and keep premiums
+B. As an honest and reasonable mistake, meaning the insurer cannot refuse a later claim
+C. As a careless misrepresentation, allowing the insurer to apply a proportionate remedy
+D. As immaterial, with no consequence for future claims
+Answer: C
+Explanation: Forgetting to mention a material fact that a reasonable person might have disclosed is likely to be treated as a careless misrepresentation under CIDRA 2012, triggering a proportionate remedy rather than outright avoidance.
+
+310. [Case Study: Family Protection]
+Natasha asks whether the children could be named as beneficiaries of a new life policy. The adviser explains that insurable interest must exist before a policy can be arranged. Which of the following correctly illustrates insurable interest?
+A. Natasha has insurable interest in James's life because she would suffer a genuine financial loss if James died
+B. The mortgage lender has insurable interest in the children's lives
+C. Only banks and financial institutions can hold insurable interest in another person's life
+D. Insurable interest exists only when the policyholder and the life assured are the same person
+Answer: A
+Explanation: Insurable interest requires a genuine financial connection, meaning the policyholder would suffer a real financial loss on the life assured's death; spouses and civil partners have insurable interest in each other's lives.
+
+CASE STUDY 3: REGULATORY COMPLIANCE
+
+Meridian Financial Planning is a directly authorised, core-category firm under the Senior Managers and Certification Regime (SM&CR). The firm has 18 employees including six financial advisers, a compliance officer, an operations manager and a chief executive. One of their advisers, Claire, has recently given unsuitable advice to three clients regarding pension transfers. The compliance officer, Stuart, was aware that Claire had not completed the required competency assessments for pension transfer advice but did not escalate this or prevent her from advising in that area. The three affected clients have already complained using the firm's internal process without resolution.
+
+---
+
+311. [Case Study: Regulatory Compliance]
+Stuart, the compliance officer, holds a Senior Management Function (SMF). Under SM&CR, which of the following best describes Stuart's personal exposure?
+A. Stuart has no personal liability because only the firm, not individuals, can be sanctioned by the FCA
+B. Stuart is potentially personally liable because the regulator can take action against a senior manager who failed to take reasonable steps to prevent a breach in their area of responsibility
+C. Stuart can only be sanctioned if he personally gave the unsuitable advice to the clients
+D. Stuart is exempt from the duty of responsibility because compliance officers are excluded from SM&CR
+Answer: B
+Explanation: Under the duty of responsibility, the FCA can hold a senior manager personally accountable if they failed to take reasonable steps to prevent a regulatory breach in the area they oversaw.
+
+312. [Case Study: Regulatory Compliance]
+Claire holds a role as a financial adviser. Under SM&CR, her role falls within which regime rather than requiring direct FCA pre-approval?
+A. The Senior Manager regime
+B. The ancillary staff exemption
+C. The Certification Regime, where the firm itself certifies her as fit and proper at least annually
+D. The approved persons regime under the old APER rules, which has not changed
+Answer: C
+Explanation: Financial advisers performing significant harm functions are certified by the firm rather than pre-approved by the FCA; the firm must assess and certify their fitness and propriety before they start and at least annually thereafter.
+
+313. [Case Study: Regulatory Compliance]
+The three affected clients have exhausted Meridian's internal complaints process without resolution. Where should they take their complaints next?
+A. Directly to the FCA for enforcement action
+B. To the Pensions Ombudsman in all three cases
+C. To the Information Commissioner's Office
+D. To the Financial Ombudsman Service (FOS)
+Answer: D
+Explanation: After a firm's internal complaints process is exhausted, affected consumers should refer their complaint to the Financial Ombudsman Service.
+
+314. [Case Study: Regulatory Compliance]
+The FCA begins an investigation into Meridian. Which of the following is one of the enforcement tools available to the FCA if it finds regulatory breaches?
+A. Issuing the firm with a compulsory merger with a competitor
+B. Removing Meridian's regulatory permissions or withdrawing individual approvals
+C. Setting a new interest rate on Meridian's client accounts
+D. Transferring Meridian's client base to a different firm without consent
+Answer: B
+Explanation: The FCA's graduated enforcement tools include varying or cancelling permissions, withdrawing individual approvals, imposing financial penalties, seeking injunctions and pursuing criminal prosecution.
+
+315. [Case Study: Regulatory Compliance]
+Meridian is reviewing whether to use an Appointed Representative (AR) arrangement to bring in a new self-employed adviser. As the principal firm, which of the following is one of Meridian's key responsibilities towards the AR?
+A. The AR becomes independently authorised and Meridian has no regulatory responsibility for their conduct
+B. Meridian is responsible for the AR's conduct and must ensure they remain solvent, fit and proper, and are properly overseen
+C. The AR is supervised solely by the FCA directly, not by Meridian
+D. Meridian must transfer all of its regulatory permissions to the AR before they begin advising
+Answer: B
+Explanation: As principal, Meridian is responsible for the AR's conduct, must ensure they remain solvent and fit and proper, and must notify the FCA at least 30 days before the AR appointment.
+
+CASE STUDY 4: ESTATE PLANNING
+
+Harold Thornton died recently without leaving a valid will. He is survived by his long-term partner of 12 years, Sandra, with whom he was not married or in a civil partnership. He also has three adult children from his previous marriage. Harold's solely-owned assets consist of his main residence, valued at £480,000, and savings of £95,000. He and Sandra owned a holiday cottage jointly as joint tenants, valued at £160,000. Harold's estate has a standard nil-rate band of £325,000 available.
+
+Sandra is devastated to learn she may not inherit as much as she expected. Harold's eldest child, Oliver, is considering a deed of variation to redirect his own share of the estate to Sandra. Harold's estate also includes a life assurance policy worth £150,000 that was written into a flexible (power of appointment) trust, with Harold's children as potential beneficiaries and Oliver as the default beneficiary.
+
+---
+
+316. [Case Study: Estate Planning]
+Sandra is not married to Harold and has no civil partnership. Under the intestacy rules, which of the following applies to Sandra's entitlement from Harold's solely-owned estate?
+A. Sandra inherits the entire estate as Harold's long-term partner
+B. Sandra and the three children share the estate equally
+C. Sandra has no automatic entitlement under the intestacy rules; the estate passes to Harold's children
+D. Sandra inherits the statutory legacy as a cohabiting partner
+Answer: C
+Explanation: Under intestacy rules, unmarried cohabiting partners have no automatic rights; without a spouse or civil partner, the estate passes to the children where no other qualifying relatives take priority.
+
+317. [Case Study: Estate Planning]
+What happens to the jointly owned holiday cottage on Harold's death?
+A. It forms part of Harold's intestate estate and is shared between his children
+B. It must be sold immediately to fund any inheritance tax liability
+C. It passes to all three children as joint tenants by default
+D. It passes automatically to Sandra by survivorship, outside Harold's estate
+Answer: D
+Explanation: Jointly owned assets held as joint tenants pass automatically to the surviving owner by survivorship and fall outside the estate, regardless of the intestacy rules.
+
+318. [Case Study: Estate Planning]
+Oliver wishes to redirect his share of the estate to Sandra using a deed of variation. For this to be "read back" for inheritance tax purposes as if Harold had made the gift, it must be completed within:
+A. Six months of Harold's death
+B. One year of Harold's death
+C. Two years of Harold's death
+D. Five years of Harold's death
+Answer: C
+Explanation: A deed of variation, with the correct legal statement included, must be completed within two years of death for it to be treated as if made by the deceased for IHT purposes.
+
+319. [Case Study: Estate Planning]
+The life assurance policy written into a flexible trust is worth £150,000. The trustees have not yet exercised their power of appointment. Which beneficiary receives the proceeds by default?
+A. Sandra, as Harold's surviving partner
+B. Harold's estate, because the trust was ineffective without a registered deed
+C. All three children equally
+D. Oliver, as the named default beneficiary
+Answer: D
+Explanation: In a flexible (power of appointment) trust, if the trustees make no appointments, the proceeds pass to the named default beneficiary, which in this case is Oliver.
+
+320. [Case Study: Estate Planning]
+Harold's solely-owned estate is valued at £575,000 (£480,000 property plus £95,000 savings). After applying Harold's £325,000 nil-rate band, what is the amount of the estate that is potentially chargeable to IHT at 40%?
+A. £75,000
+B. £250,000
+C. £325,000
+D. £575,000
+Answer: B
+Explanation: £575,000 minus the £325,000 NRB leaves £250,000 potentially subject to IHT at 40%; note the RNRB may not apply here as the property does not pass to direct descendants under intestacy.
+
+CASE STUDY 5: TAX AND INVESTMENT PLANNING
+
+Aisha is 44 years old and earns £85,000 a year as a director of a marketing agency. She is a higher rate taxpayer. She currently has £30,000 in a cash ISA earning 4% per year, a stocks and shares ISA worth £48,000, and a portfolio of UK shares held outside any tax wrapper valued at £62,000. She also pays £500 per month gross into her personal pension. She is keen to understand how to minimise her tax liability on her savings and investments and is also beginning to think about inheritance tax planning for the future.
+
+Aisha has no mortgage and owns her property outright. She has no dependants and her only close relatives are her parents, both of whom are alive and in good health.
+
+---
+
+321. [Case Study: Tax and Investment Planning]
+Aisha pays £500 gross per month into her personal pension. She is a higher rate taxpayer. What is the actual cost of this contribution from her own take-home pay after she claims all available tax relief?
+A. £300 per month
+B. £400 per month
+C. £500 per month
+D. £600 per month
+Answer: A
+Explanation: Basic rate relief of 20% is added at source, so Aisha pays £400 from her own pocket; as a higher rate taxpayer she can claim a further 20% (£100) through self-assessment, reducing the real cost to £300 per month.
+
+322. [Case Study: Tax and Investment Planning]
+Aisha's stocks and shares ISA is currently worth £48,000. She withdraws £10,000 from it to fund a holiday. What is the tax treatment of this withdrawal?
+A. She pays income tax at her marginal rate on the withdrawal
+B. She pays capital gains tax on any gain within the ISA
+C. The withdrawal is completely free of income tax and capital gains tax
+D. She pays 20% basic rate tax on the withdrawal
+Answer: C
+Explanation: ISA withdrawals are completely free of both income tax and capital gains tax; this is one of the primary tax advantages of the ISA wrapper.
+
+323. [Case Study: Tax and Investment Planning]
+Aisha sells shares from her portfolio held outside the ISA for a gain of £14,000. Which tax potentially applies to this gain?
+A. Income tax at her marginal rate of 40%
+B. Capital gains tax, subject to her annual CGT exempt amount
+C. Inheritance tax at 40%
+D. Stamp Duty Reserve Tax (SDRT)
+Answer: B
+Explanation: Gains on the disposal of shares held outside an ISA are potentially subject to capital gains tax; SDRT applies on purchase of shares electronically, not on sale.
+
+324. [Case Study: Tax and Investment Planning]
+Aisha buys £20,000 of UK company shares electronically through a stockbroker. Stamp Duty Reserve Tax (SDRT) is charged at 0.5%. How much SDRT is payable?
+A. £20
+B. £100
+C. £200
+D. £1,000
+Answer: B
+Explanation: SDRT is charged at 0.5% on the transaction value; 0.5% of £20,000 = £100, collected electronically through CREST and passed to HMRC by the broker.
+
+325. [Case Study: Tax and Investment Planning]
+Aisha asks about inheritance tax planning. She has no spouse, no civil partner and no direct descendants. If she died with an estate of £500,000 today, what would the IHT position be, assuming only the standard nil-rate band applies?
+A. No IHT is payable as her estate is below the threshold
+B. IHT of £70,000 is payable on the £175,000 excess over the NRB
+C. IHT of £100,000 is payable on the £250,000 excess over the NRB
+D. IHT of £200,000 is payable on the full estate value
+Answer: B
+Explanation: With a £325,000 NRB, the excess is £500,000 minus £325,000 = £175,000; at 40%, the IHT charge is £70,000; the RNRB is unavailable as Aisha has no direct descendants.
+
+CASE STUDY 6: FINANCIAL CRIME AND COMPLIANCE
+
+Vantage Bank is a medium-sized UK retail bank regulated by both the FCA and the PRA. Over the past three years, a branch manager, Keith, has accepted very large cash deposits from a regular commercial client without conducting enhanced due diligence or filing Suspicious Activity Reports (SARs) with the National Crime Agency, even though internal staff raised concerns on several occasions. The deposits, totalling £4.2 million, were in cash and often carried in unusual circumstances. The bank's automated monitoring system had flagged the activity but Keith manually overrode the flags each time.
+
+The FCA has launched an investigation. The bank's compliance team is now under scrutiny. The bank's senior management claim they were unaware of Keith's actions.
+
+---
+
+326. [Case Study: Financial Crime]
+The process of moving criminal money through accounts or products to make it appear legitimate is known as:
+A. Phishing
+B. Insider dealing
+C. Tax evasion
+D. Money laundering
+Answer: D
+Explanation: Money laundering is the process of moving criminal money through accounts or products to make it look legitimate or to hide its origins, governed primarily by the Proceeds of Crime Act 2002.
+
+327. [Case Study: Financial Crime]
+Which legislation primarily governs the money laundering offences that may have been committed in this scenario?
+A. The Bribery Act 2010
+B. The Proceeds of Crime Act 2002 (POCA)
+C. The Fraud Act 2006
+D. The Theft Act 1968
+Answer: B
+Explanation: The Proceeds of Crime Act 2002 is the main legislation governing money laundering offences in the UK, alongside the Sanctions and Anti-Money Laundering Act 2018.
+
+328. [Case Study: Financial Crime]
+Keith is a senior manager at the bank. Under SM&CR, which of the following best describes his potential exposure?
+A. Keith may be personally liable for failing to take reasonable steps to prevent the money laundering activity within his area of responsibility
+B. Keith cannot be personally held to account because only the firm bears regulatory liability
+C. Keith is exempt from regulatory action because he acted on client instructions
+D. The SM&CR only covers conduct towards retail customers, not financial crime
+Answer: A
+Explanation: SM&CR's duty of responsibility means senior managers can be personally held accountable where they failed to take reasonable steps to prevent breaches in their area of responsibility.
+
+329. [Case Study: Financial Crime]
+The FCA is deciding what enforcement action to take against Vantage Bank. Which of the following is NOT one of the FCA's available enforcement tools?
+A. Setting a new interest rate on Vantage Bank's savings products
+B. Pursuing criminal prosecution for serious deliberate wrongdoing
+C. Imposing a financial penalty on the firm
+D. Varying or cancelling Vantage Bank's regulatory permissions
+Answer: A
+Explanation: Setting interest rates on savings products is a commercial matter for the bank; the FCA's enforcement tools include financial penalties, criminal prosecution, withdrawing permissions and seeking injunctions.
+
+330. [Case Study: Financial Crime]
+The Financial Action Task Force (FATF), which sets global anti-money laundering standards, was created in 1989. Its remit includes which of the following?
+A. Setting global standards, monitoring compliance and promoting cooperation between governments on money laundering and terrorist financing
+B. Approving individual bank licences across the EU
+C. Setting domestic interest rates for member countries
+D. Operating as the sole prosecuting body for financial crime in the UK
+Answer: A
+Explanation: FATF sets global standards against money laundering and terrorist financing, monitors compliance and promotes cooperation between governments and regulators internationally.
+
+CASE STUDY 7: FIRST-TIME BUYER AND MORTGAGE
+
+Emma, aged 28, is a first-time buyer purchasing a flat for £220,000. She has saved a 15% deposit of £33,000 and is arranging a repayment mortgage for the remaining £187,000 over a 30-year term. Emma earns £32,000 a year as a project manager. Her employer does not offer a death-in-service benefit. She has no existing life cover or income protection.
+
+Her mortgage adviser explains she must consider suitable protection. Emma also asks whether an interest-only mortgage would reduce her monthly payments, and whether she should consider a second charge loan later if she wants to borrow more. She has heard about Mortgage Payment Protection Insurance (MPPI) but is unsure how it compares with a standalone IPI policy.
+
+---
+
+331. [Case Study: First-Time Buyer]
+Emma's mortgage is for £187,000 on a property worth £220,000. What is Emma's equity in the property at the point of purchase?
+A. £33,000
+B. £220,000
+C. £187,000
+D. £154,000
+Answer: A
+Explanation: Equity is the difference between the property's value (£220,000) and the total borrowing secured against it (£187,000), giving initial equity of £33,000.
+
+332. [Case Study: First-Time Buyer]
+Emma asks whether an interest-only mortgage would lower her monthly payments. The adviser explains the key risk of an interest-only mortgage. What is this risk?
+A. Monthly payments cover only the interest, so the capital does not reduce; without a robust repayment vehicle the full loan must still be repaid at the end of the term
+B. Interest-only mortgages are illegal for residential purchases
+C. Interest-only mortgages always have a higher interest rate than repayment mortgages
+D. Interest-only mortgages require a 50% deposit
+Answer: A
+Explanation: On an interest-only mortgage, monthly payments cover only interest and the capital balance does not reduce, creating a significant risk if no separate repayment vehicle is in place to repay the full loan at the end of the term.
+
+333. [Case Study: First-Time Buyer]
+Emma earns £32,000 a year. If she takes out an IPI policy with a 26-week deferred period and a 60% benefit cap, what would her maximum monthly IPI benefit be?
+A. £1,600
+B. £1,280
+C. £1,067
+D. £1,920
+Answer: A
+Explanation: £32,000 divided by 12 = £2,667 per month; multiplied by 60% = £1,600, the maximum monthly benefit within the typical IPI cap of 50% to 65% of pre-disability earnings.
+
+334. [Case Study: First-Time Buyer]
+Emma asks how Mortgage Payment Protection Insurance (MPPI) differs from a standalone IPI policy. Which of the following is the most accurate comparison?
+A. MPPI and IPI are identical products with the same maximum claim duration
+B. IPI can only be arranged as part of a group occupational scheme
+C. MPPI provides a tax-free lump sum on diagnosis of a critical illness
+D. MPPI pays the mortgage and related costs directly to the lender and is a short-term ASU variant, while IPI provides long-term non-cancellable income replacement
+Answer: D
+Explanation: MPPI is a variant of ASU insurance paying the mortgage costs directly to the lender with a short-term maximum payout, whereas IPI provides long-term, non-cancellable income replacement that can run until retirement.
+
+335. [Case Study: First-Time Buyer]
+Emma considers taking out a second charge loan a few years after buying her flat. Which of the following correctly describes how the first and second charge lenders would be treated on a sale?
+A. The second charge lender is repaid first as a more recent creditor
+B. Both lenders receive equal shares of the sale proceeds regardless of registration order
+C. The order of repayment is decided by a court on each individual sale
+D. The first charge lender is repaid in full first; the second charge lender receives only what remains
+Answer: D
+Explanation: Priority follows the order of registration; the first charge lender is repaid in full before the second charge lender receives any proceeds from the sale.
+

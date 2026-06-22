@@ -1,0 +1,150 @@
+CASE STUDY 8: STATE BENEFITS AND FINANCIAL PLANNING
+
+Rachel, aged 38, and Tom, aged 40, are a married couple with one child aged 8. Tom was made redundant six months ago and has been claiming New-style Jobseeker's Allowance while looking for work. Rachel works part-time earning £14,000 a year. They have a repayment mortgage with £130,000 outstanding and are struggling to meet the monthly mortgage payments. Their combined savings stand at £3,200.
+
+They are meeting with an adviser who is reviewing their overall financial position. Rachel is also seven months pregnant and will stop working shortly. She has worked continuously for her employer for 30 weeks. Tom has built up sufficient Class 1 NIC contributions to qualify for any contribution-based benefit. The adviser must navigate their benefit entitlements carefully to avoid any unintended consequences when making recommendations.
+
+---
+
+336. [Case Study: State Benefits]
+Tom has been claiming New-style Jobseeker's Allowance (JSA) for six months. Which of the following is TRUE about New-style JSA?
+A. It is means-tested, so it will stop immediately if Rachel's income rises above a certain level
+B. It is contribution-based, taxable, and paid at a flat rate for up to six months
+C. It can be claimed indefinitely provided Tom continues to look for work
+D. It is tax-free and not subject to any National Insurance credit
+Answer: B
+Explanation: New-style JSA is a contribution-based benefit, taxable and not means-tested, paid at a flat rate for up to six months, with claimants typically credited with NICs for each week they receive it.
+
+337. [Case Study: State Benefits]
+Rachel is seven months pregnant and has worked continuously for her employer for 30 weeks. She meets the earnings threshold. Which maternity benefit is she most likely entitled to?
+A. Maternity Allowance, paid by the DWP for up to 39 weeks
+B. Statutory Maternity Pay, paid by her employer for up to 39 weeks
+C. Carer's Allowance, paid at a flat rate until the child turns one
+D. Child Benefit, paid from the date of birth
+Answer: B
+Explanation: SMP is available to employees who have worked continuously for at least 26 weeks before the qualifying week and meet the earnings threshold; Rachel qualifies and her employer pays SMP for up to 39 weeks.
+
+338. [Case Study: State Benefits]
+Rachel and Tom are struggling to pay their mortgage. They ask whether Support for Mortgage Interest (SMI) could help. Which of the following is correct about SMI?
+A. SMI is a non-repayable government grant that covers both capital and interest
+B. SMI covers only the monthly interest on a qualifying mortgage and is a government-backed loan secured as a second charge, repayable when the home is sold
+C. SMI is only available to first-time buyers with a mortgage under £100,000
+D. SMI covers the full mortgage payment including capital and is interest-free
+Answer: B
+Explanation: SMI is a government-backed loan, not a grant, covering monthly mortgage interest only and secured against the property as a second charge, repayable with interest when the home is eventually sold.
+
+339. [Case Study: State Benefits]
+The adviser is considering recommending that Rachel increase her savings. She currently receives Universal Credit. What is the most important consequence the adviser must flag before making this recommendation?
+A. Higher savings will improve Rachel's credit rating and have no effect on Universal Credit
+B. Increasing savings or income above certain thresholds can reduce or eliminate Universal Credit entitlement, making this an unintended consequence the adviser must consider under the Consumer Duty
+C. Universal Credit is not affected by savings levels at all
+D. The adviser is legally required to notify the DWP before Rachel changes her savings level
+Answer: B
+Explanation: Universal Credit is means-tested and entitlement depends on income and savings; recommending actions that reduce or eliminate entitlement without flagging this could breach the Consumer Duty requirement to avoid foreseeable harm.
+
+340. [Case Study: State Benefits]
+Tom's redundancy occurred after building up 12 qualifying NIC years before the redundancy. He is now concerned about protecting his State Pension entitlement. Which statement is TRUE?
+A. Tom needs only 10 qualifying years for any State Pension and 35 for the full amount under the new system
+B. Tom requires 30 qualifying years for any State Pension, as the old system still applies to him
+C. Tom's NIC record is irrelevant because State Pension is now a universal flat-rate payment regardless of contributions
+D. Tom cannot build any further NIC credits while unemployed
+Answer: A
+Explanation: Under the new State Pension system (for those reaching State Pension age from April 2016), a minimum of 10 qualifying years are needed for any pension and 35 for the full amount; NIC credits are available to claimants to protect their record.
+
+CASE STUDY 9: TRUSTS AND INHERITANCE TAX PLANNING
+
+Margaret, aged 72, is a widow with a substantial estate. Four years ago she transferred £200,000 into a discretionary trust for her three adult children. She has made no other gifts in the past seven years. She is now considering transferring a further £180,000 into a second discretionary trust. The current nil-rate band is £325,000.
+
+Margaret has also written a life assurance policy worth £120,000 into a Married Women's Property Act (MWPA) trust for her children. She owns her main residence valued at £550,000 and has additional investments of £90,000. She is concerned about her overall IHT position and wants to understand the effect of her proposed second gift and the protections available to her estate.
+
+---
+
+341. [Case Study: Trusts and IHT]
+Margaret made a £200,000 gift into a discretionary trust four years ago. She now proposes a further gift of £180,000 into a second discretionary trust. What is the total of her chargeable lifetime transfers in the last seven years?
+A. £180,000
+B. £200,000
+C. £325,000
+D. £380,000
+Answer: D
+Explanation: The cumulative total of CLTs in the last seven years is £200,000 (four years ago) plus £180,000 (the proposed gift) = £380,000.
+
+342. [Case Study: Trusts and IHT]
+Based on a cumulative CLT of £380,000 and a nil-rate band of £325,000, what immediate IHT charge arises on the second gift?
+A. £0
+B. £22,000
+C. £11,000
+D. £36,000
+Answer: C
+Explanation: The excess over the NRB is £380,000 minus £325,000 = £55,000; an immediate 20% charge on £55,000 = £11,000.
+
+343. [Case Study: Trusts and IHT]
+Margaret survives for more than seven years after the first gift into the discretionary trust. What happens to the IHT position on that original £200,000 gift?
+A. A further IHT charge of 40% is applied on the seven-year anniversary
+B. The gift is reassessed at 40% and any underpayment must be made up
+C. No further IHT is due on that gift, though any 20% lifetime charge already paid is not refunded
+D. The gift reverts to Margaret's estate and is subject to IHT on her death
+Answer: C
+Explanation: If the settlor survives seven years from the date of a CLT, no further IHT is due on that gift, although any 20% charge already paid is not refunded.
+
+344. [Case Study: Trusts and IHT]
+Margaret's life assurance policy is written into a Married Women's Property Act (MWPA) trust for her children. Which of the following correctly describes the IHT treatment of the policy proceeds?
+A. The proceeds pass outside Margaret's estate for IHT and are also protected from her creditors
+B. The proceeds form part of Margaret's estate and are subject to IHT on her death
+C. The MWPA trust only applies if Margaret is still married at the time of her death
+D. The proceeds are taxable as income in the hands of the children
+Answer: A
+Explanation: An MWPA trust arises automatically, placing the policy proceeds outside the estate for IHT and protecting them from the policyholder's creditors; it can be used by single people for their children's benefit and does not require the policyholder to be married.
+
+345. [Case Study: Trusts and IHT]
+In the discretionary trusts Margaret has created, who decides whether and how income or capital is distributed to the children?
+A. HMRC, based on the reported trust income each tax year
+B. Margaret, as she retains full control of the trust assets
+C. The trustees, guided but not bound by any letter of wishes Margaret writes
+D. The beneficiaries, by majority vote
+Answer: C
+Explanation: In a discretionary trust the trustees decide if, when and to whom to pay income or capital; Margaret can write a non-binding letter of wishes to guide them, but the decision ultimately rests with the trustees.
+
+346. [Case Study: Insurance]
+David owns a buy-to-let property that is insured under a buildings policy for £300,000. Following a fire, a structural engineer assesses the cost of rebuilding the damaged section at £40,000. The insurer decides to settle the claim by cash payment.
+
+Which principle determines that the insurer pays £40,000 and no more, rather than a larger sum?
+A. The principle of indemnity, which aims to restore David to his pre-loss financial position without allowing him to profit
+B. The survival period, which reduces claim payments on policies held for less than three years
+C. The principle of insurable interest, which limits cover to the value of the policyholder's financial loss
+D. The deferred period, which offsets the first portion of any claim
+Answer: A
+Explanation: The principle of indemnity underpins general insurance, meaning the insurer aims to put the claimant back in the same financial position as before the loss, without allowing any profit from the claim.
+
+347. [Case Study: Financial Markets]
+Sophie is an investor who buys 2,000 shares in a newly listed company during its initial public offering (IPO), paying £5 per share directly to the company. Six months later she sells those shares on the London Stock Exchange to another investor at £6.50 per share.
+
+Which markets did Sophie's two transactions take place in?
+A. The IPO was in the primary market; the later sale was in the secondary market
+B. Both transactions took place in the secondary market
+C. The IPO was in the secondary market; the later sale was in the primary market
+D. Both transactions took place in the money market
+Answer: A
+Explanation: An IPO is a primary market transaction, where new shares are issued and the company receives the proceeds; Sophie's later sale to another investor on the LSE is a secondary market transaction, where existing securities change hands between investors.
+
+348. [Case Study: Regulatory History]
+In 1995, Barings Bank collapsed after a single trader accumulated losses exceeding £800 million. The bank was subsequently sold for £1.
+
+A key internal control failure that allowed the losses to build undetected was that the trader:
+A. Was based in London rather than at the overseas office where the losses were made
+B. Was supervised directly by the Bank of England, which failed to act on warning signs
+C. Had been refused access to the bank's risk management systems
+D. Held responsibility for both front office trading and back office settlement and reporting, eliminating the segregation of duties needed to detect fraud
+Answer: D
+Explanation: Nick Leeson controlled both the trading (front office) and the settlement and reporting (back office), a complete breach of basic internal controls that allowed him to hide losses in an unauthorised account without detection.
+
+349. [Case Study: Consumer Duty]
+Laura is a financial adviser at a regulated firm. During a review, she recommends a client, aged 68, switches their low-cost tracker pension fund into a complex structured product with significantly higher charges. The product offers no improvement in expected returns and the client does not fully understand the recommendation. When questioned, Laura confirms she did not fully assess the client's needs, circumstances or ability to understand the product before making the recommendation.
+
+Which Consumer Duty obligation has Laura most clearly breached?
+A. The requirement to file an annual SM&CR statement of responsibilities
+B. The CASS requirement to hold client money in a segregated account
+C. The obligation to report the recommendation to the Pensions Regulator within 30 days
+D. The requirement for clear and fair communications, products that meet genuine needs, and avoiding foreseeable harm to the client
+Answer: D
+Explanation: The Consumer Duty requires firms to act in good faith, avoid foreseeable harm and ensure products meet genuine customer needs; Laura has breached multiple outcomes including fair communications, suitable products and fair value by recommending a higher-cost product with no benefit to an uninformed client.
+

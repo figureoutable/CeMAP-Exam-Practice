@@ -1,0 +1,1805 @@
+# CeMAP Part 1 Practice Question Bank
+200 multiple-choice questions covering the full CeMAP Part 1 syllabus (Money & Markets, Regulation, Tax & Benefits, Pensions, Protection, Mortgages, Legal/Estate Planning, Trusts, Financial Crime, SM&CR).
+
+Format per question: number, [Category], question text, four options (A-D), correct answer, one-sentence explanation.
+
+1. [Money & Asset Classes]
+Which of the following is NOT one of the four properties of money summarised by the acronym PADS?
+A. Portable
+B. Acceptable
+C. Durable
+D. Sufficient
+Answer: C
+Explanation: PADS stands for Portable, Acceptable, Divisible and Sufficient; durability is not part of the acronym.
+
+2. [Money & Asset Classes]
+The "double coincidence of wants" describes a limitation of which system?
+A. Fiat currency
+B. Barter
+C. Central Bank Digital Currency
+D. The gilt market
+Answer: B
+Explanation: Barter only works if both parties happen to want what the other is offering, a problem money solves by acting as a universal medium of exchange.
+
+3. [Money & Asset Classes]
+Why does today's cash and digital currency hold value, given it has no intrinsic worth?
+A. It is fully backed by gold reserves
+B. It is fiat money, accepted because people trust governments and banks to uphold its value
+C. It can always be exchanged for property
+D. It is linked to a fixed exchange rate with the US dollar
+Answer: B
+Explanation: Modern money is fiat money, meaning it has no intrinsic value and is accepted purely because of trust in the issuing government and banking system.
+
+4. [Money & Asset Classes]
+Which function of money is described as "a common denominator against which goods and services can be valued"?
+A. Store of value
+B. Legal tender
+C. Unit of account
+D. Medium of exchange
+Answer: C
+Explanation: A unit of account is money's role as a common measure that allows goods and services to be priced and compared consistently.
+
+5. [Money & Asset Classes]
+In 2011, £50 in cash had the same face value ten years later but its purchasing power had fallen to roughly £39 due to inflation. If a separate sum of £200 lost purchasing power in the same proportion, what would its real purchasing power become?
+A. £150
+B. £156
+C. £161
+D. £178
+Answer: B
+Explanation: £39 ÷ £50 = 78%, and 78% of £200 = £156, illustrating how inflation erodes the real value of cash over time.
+
+6. [Money & Asset Classes]
+Which of the following are the four main asset classes referred to in this course?
+A. Cash, property, shares and fixed interest securities
+B. Cash, cryptocurrency, shares and commodities
+C. Property, shares, pensions and gilts
+D. Cash, bonds, foreign exchange and derivatives
+Answer: A
+Explanation: The four main asset classes covered are cash, property, shares and fixed interest securities, with commodities and foreign exchange sometimes added as alternatives.
+
+7. [Money & Asset Classes]
+Which of the following is a key disadvantage of holding cash as an asset?
+A. It is difficult to access in an emergency
+B. It does not offer capital growth and its real value can be eroded by inflation
+C. It cannot earn any interest
+D. It is the most volatile of all asset classes
+Answer: B
+Explanation: Cash is safe and liquid but does not grow in value, so inflation can steadily reduce its real purchasing power over time.
+
+8. [Money & Asset Classes]
+Property is generally said to offer investors which two main sources of return?
+A. Dividends and capital growth
+B. Rental income and capital growth
+C. Interest and dividends
+D. Coupon payments and capital growth
+Answer: B
+Explanation: Property can generate regular rental income and the potential for capital growth if the property's value rises.
+
+9. [Money & Asset Classes]
+Compared with equities, commercial property typically offers returns that:
+A. Are always higher than equities with greater volatility
+B. Sit between those of equities and bonds, with less volatility than equities
+C. Match gilts exactly in both risk and return
+D. Are guaranteed regardless of occupancy levels
+Answer: B
+Explanation: Commercial property typically sits between equities and bonds in terms of return, with lower volatility than shares because rental income provides a stable component.
+
+10. [Money & Asset Classes]
+What happens to the price of a fixed interest bond when market interest rates rise?
+A. The bond price rises in line with interest rates
+B. The bond price typically falls
+C. The bond's coupon automatically increases
+D. The bond is redeemed early by the issuer
+Answer: B
+Explanation: Bond prices move in the opposite direction to interest rates, so a rise in rates typically causes existing bond prices to fall.
+
+11. [Institutions & Markets]
+Which type of organisation is owned by shareholders who receive dividends and can vote at shareholder meetings?
+A. A mutual organisation
+B. A credit union
+C. A proprietary organisation (PLC)
+D. A friendly society
+Answer: C
+Explanation: Proprietary organisations, often structured as Public Limited Companies, are owned by shareholders who receive dividends and voting rights.
+
+12. [Institutions & Markets]
+In a building society, who are the members?
+A. Only the board of directors
+B. Depositors and borrowers
+C. Institutional shareholders only
+D. The Financial Conduct Authority
+Answer: B
+Explanation: Building societies are mutual organisations owned by their members, who are typically the depositors and borrowers rather than external shareholders.
+
+13. [Institutions & Markets]
+Since which Act have some building societies been able to demutualise and convert into PLCs?
+A. The Financial Services Act 1986
+B. The Building Societies Act 1986
+C. The Banking Act 1987
+D. The Financial Services and Markets Act 2000
+Answer: B
+Explanation: The Building Societies Act 1986 allowed some societies to demutualise and convert into public limited companies.
+
+14. [Institutions & Markets]
+What is the defining feature of a credit union compared with a typical bank?
+A. It is a financial co-operative owned and run by members who share a common bond
+B. It is always a subsidiary of a major high-street bank
+C. It can only offer mortgages, not savings accounts
+D. It is regulated solely by the Pensions Regulator
+Answer: A
+Explanation: Credit unions are financial co-operatives owned and run by their members, who typically share a common link such as location, employer or community.
+
+15. [Institutions & Markets]
+In what year was the Bank of England established?
+A. 1066
+B. 1694
+C. 1844
+D. 1946
+Answer: B
+Explanation: The Bank of England was established in 1694, originally to raise funds for government during a war with France.
+
+16. [Institutions & Markets]
+The Bank of England's role of providing emergency support to banks during a crisis is known as:
+A. Quantitative easing
+B. Lender of last resort
+C. Macroprudential supervision
+D. Disintermediation
+Answer: B
+Explanation: Acting as lender of last resort means the Bank of England provides emergency support to banks during periods of crisis.
+
+17. [Institutions & Markets]
+Which Bank of England committee is responsible for setting the official bank interest rate?
+A. The Financial Policy Committee (FPC)
+B. The Prudential Regulation Committee (PRC)
+C. The Monetary Policy Committee (MPC)
+D. The Treasury Select Committee
+Answer: C
+Explanation: The Monetary Policy Committee (MPC) sets the official bank interest rate to control inflation and support economic stability.
+
+18. [Institutions & Markets]
+Why are secured loans generally cheaper for borrowers than unsecured loans?
+A. Secured loans are not regulated by the FCA
+B. The lender holds collateral, reducing its risk if the borrower defaults
+C. Secured loans always have a shorter repayment term
+D. Interest on secured loans is paid by the government
+Answer: B
+Explanation: A secured loan gives the lender a claim over an asset if the borrower defaults, reducing the lender's risk and allowing a lower interest rate.
+
+19. [Institutions & Markets]
+Which term describes a company issuing new shares directly to its existing shareholders, bypassing intermediaries?
+A. A rights issue, an example of disintermediation
+B. A primary listing on the FTSE
+C. A gilt auction
+D. A clearing transaction
+Answer: A
+Explanation: A rights issue is a clear example of disintermediation, where a company raises capital directly from shareholders rather than through an intermediary.
+
+20. [Institutions & Markets]
+What is the main distinction between wholesale and retail financial markets?
+A. Retail markets only operate online
+B. Wholesale markets involve much larger sums, often between banks, corporates or governments, with thinner margins
+C. Retail markets are unregulated
+D. Wholesale markets exclusively trade in foreign currencies
+Answer: B
+Explanation: Wholesale markets involve large transactions between institutions with thin margins, while retail markets serve individuals and small businesses with smaller, more numerous transactions.
+
+21. [Institutions & Markets]
+A company issuing shares for the first time and receiving cash directly from investors is an example of activity in the:
+A. Secondary market
+B. Primary market
+C. Money market
+D. Interbank market
+Answer: B
+Explanation: The primary market is where new securities are issued and the issuer receives funds directly from investors.
+
+22. [Institutions & Markets]
+Which of the following best describes a money market instrument?
+A. A 25-year corporate bond
+B. A Treasury bill used for short-term borrowing of less than a year
+C. A share in a listed company
+D. A buy-to-let mortgage
+Answer: B
+Explanation: Money markets cover short-term borrowing and lending of under a year, with Treasury bills and commercial paper as typical instruments.
+
+23. [Institutions & Markets]
+The interbank market typically involves banks lending to each other for periods of:
+A. Overnight up to three months
+B. One to five years
+C. Ten to thirty years
+D. A single trading day only
+Answer: A
+Explanation: The interbank market is a money market where banks lend and borrow significant sums for short periods, usually from overnight up to three months.
+
+24. [Institutions & Markets]
+What replaced Libor as the UK's interbank benchmark interest rate from January 2022?
+A. The Bank of England base rate
+B. The sterling overnight index average (Sonia)
+C. The Consumer Prices Index (CPI)
+D. The Public Sector Net Cash Requirement (PSNCR)
+Answer: B
+Explanation: Following manipulation scandals, Libor was replaced by Sonia from January 2022, a benchmark based on actual overnight market transactions.
+
+25. [Institutions & Markets]
+Financial intermediaries primarily exist to:
+A. Set the rate of inflation
+B. Connect savers and borrowers, pooling risk and combining small deposits into larger funds
+C. Replace the need for regulation
+D. Issue government gilts directly to the public
+Answer: B
+Explanation: Financial intermediaries bridge gaps between savers and borrowers, pooling risks and combining smaller amounts of money into larger, usable funds.
+
+26. [Exchanges & Indices]
+The London Stock Exchange traces its informal origins to which 17th-century location?
+A. The Royal Exchange
+B. Jonathan's Coffee House
+C. The Bank of England's trading floor
+D. Lloyd's Coffee House
+Answer: B
+Explanation: The London Stock Exchange has its roots in Jonathan's Coffee House, where merchants and brokers gathered to trade shares informally.
+
+27. [Exchanges & Indices]
+Which two indices are commonly cited as the key stock market indices for New York?
+A. CAC40 and DAX
+B. Nikkei and Hang Seng
+C. Dow Jones and NASDAQ
+D. FTSE 100 and FTSE 250
+Answer: C
+Explanation: New York's key indices for UK investors are the Dow Jones and NASDAQ.
+
+28. [Exchanges & Indices]
+The Nikkei index is the main stock market index of which country?
+A. Germany
+B. Japan
+C. France
+D. Hong Kong
+Answer: B
+Explanation: The Nikkei index represents the Tokyo stock market and is Japan's main index.
+
+29. [Exchanges & Indices]
+Which index represents the main stock market in Hong Kong?
+A. The DAX
+B. The Hang Seng
+C. The CAC40
+D. The Nikkei
+Answer: B
+Explanation: The Hang Seng index is the primary index for the Hong Kong stock market.
+
+30. [Exchanges & Indices]
+The gilt market allows the UK government to:
+A. Set interest rates for high-street banks
+B. Raise money by issuing bonds, promising to repay the amount plus interest
+C. Regulate the conduct of financial advisers
+D. Issue new shares to institutional investors
+Answer: B
+Explanation: The gilt market is where the UK government issues bonds (gilts) to raise money, promising to repay the borrowed amount plus interest over time.
+
+31. [Exchanges & Indices]
+What is the main purpose of a collective investment scheme?
+A. To guarantee a fixed annual return to all investors
+B. To pool investors' money, giving access to capital markets with professional management and diversification
+C. To allow companies to avoid corporation tax
+D. To provide short-term loans between banks
+Answer: B
+Explanation: Collective investment schemes pool money from many investors, providing access to diversified, professionally managed portfolios that would be harder to achieve individually.
+
+32. [Exchanges & Indices]
+Stamp Duty Reserve Tax (SDRT), collected through CREST on electronic share purchases, is usually charged at what rate?
+A. 0.25%
+B. 0.5%
+C. 1%
+D. 2%
+Answer: B
+Explanation: SDRT is usually applied at a rate of 0.5% on the transaction value when shares are bought electronically through a system like CREST.
+
+33. [Exchanges & Indices]
+Which of the following is NOT one of CREST's main functions?
+A. Finalising trades between buyer and seller
+B. Tracking ownership of shares and bonds digitally
+C. Handling dividend and interest payments to investors
+D. Setting the Bank of England base rate
+Answer: D
+Explanation: CREST finalises trades, tracks ownership and handles payments; setting the base rate is the role of the Bank of England's Monetary Policy Committee.
+
+34. [Exchanges & Indices]
+In financial markets, parties typically manage the risk of adverse price movements (such as a farmer's crop price falling) using:
+A. Standard insurance policies
+B. Derivatives
+C. Universal Credit
+D. Client Assets Sourcebook (CASS) rules
+Answer: B
+Explanation: Financial markets typically use derivatives, rather than standard insurance, to manage and offset the risk of adverse price movements in an underlying asset.
+
+35. [Exchanges & Indices]
+A strong secondary market for shares is important mainly because it:
+A. Eliminates the need for a primary market
+B. Gives investors confidence they can sell their holdings, encouraging them to buy in the primary market
+C. Removes the requirement for FCA regulation
+D. Guarantees share prices will only rise
+Answer: B
+Explanation: Investors are far more likely to buy shares in the primary market if they know an active secondary market exists where they can sell those shares easily later.
+
+36. [Payments, Clearing & Settlement]
+A clearing house reduces the risk of one party defaulting on a trade mainly by:
+A. Refusing to process any high-value transactions
+B. Acting as the buyer to every seller and the seller to every buyer
+C. Setting the official bank interest rate
+D. Holding all client money in a single trust account indefinitely
+Answer: B
+Explanation: A clearing house acts as an intermediary, becoming the buyer to every seller and the seller to every buyer, which reduces the risk of one party defaulting.
+
+37. [Payments, Clearing & Settlement]
+What is the main role of a settlement system?
+A. To set interest rates on savings accounts
+B. To facilitate the actual transfer of money and ownership of securities after a trade is made
+C. To approve individuals for senior management functions
+D. To collect Stamp Duty Reserve Tax from retail investors
+Answer: B
+Explanation: Settlement systems handle the final transfer of money and ownership of securities once a trade has been agreed and confirmed.
+
+38. [Payments, Clearing & Settlement]
+Which UK payment system is best suited to a same-day, high-value transfer such as completing a house purchase?
+A. BACS
+B. CHAPS
+C. Standing order
+D. Cheque clearing
+Answer: B
+Explanation: CHAPS provides same-day, high-value transfers between banks and is commonly used for property transactions and large corporate payments.
+
+39. [Payments, Clearing & Settlement]
+BACS is most commonly used for:
+A. Instant, 24/7 transfers between individuals
+B. Bulk, low-value payments such as salaries and supplier payments
+C. Same-day, high-value property transactions
+D. Cross-border foreign exchange settlements
+Answer: B
+Explanation: BACS processes bulk, low-value payments such as salaries, benefits and regular supplier payments.
+
+40. [Payments, Clearing & Settlement]
+What is a key feature of the Faster Payments system?
+A. It only operates between 9am and 5pm on weekdays
+B. It provides instant electronic transfers between UK bank accounts, available 24/7
+C. It is used exclusively for international payments
+D. It requires a minimum transaction value of £10,000
+Answer: B
+Explanation: Faster Payments enables instant electronic transfers between UK bank accounts and is available 24 hours a day, seven days a week.
+
+41. [Payments, Clearing & Settlement]
+Which regulator is specifically responsible for ensuring UK payment systems are safe, efficient, competitive and innovative?
+A. The Prudential Regulation Authority
+B. The Payment Systems Regulator (PSR)
+C. The Information Commissioner's Office
+D. The Pensions Regulator
+Answer: B
+Explanation: The Payment Systems Regulator (PSR) is specifically tasked with ensuring the UK's payment systems are safe, efficient, competitive and innovative.
+
+42. [Payments, Clearing & Settlement]
+What is the key difference between a standing order and a direct debit?
+A. A standing order is a fixed, regular payment set by the account holder, while a direct debit is a variable payment authorised for a third party to collect
+B. A direct debit can only be used for mortgage payments
+C. A standing order requires the payee's consent each time
+D. There is no difference; the terms are interchangeable
+Answer: A
+Explanation: A standing order is a fixed regular payment instructed by the account holder, whereas a direct debit allows a third party to collect a variable amount with the account holder's authorisation.
+
+43. [Payments, Clearing & Settlement]
+Within UK banking payment systems, which product is described as "the foundation for everyday banking, allowing deposits, withdrawals and payments"?
+A. The credit card
+B. The current account
+C. The gilt
+D. The money market fund
+Answer: B
+Explanation: The current account is the foundation of everyday banking, underpinning deposits, withdrawals and most other payment methods.
+
+44. [Payments, Clearing & Settlement]
+Contactless payments rely on which technology to process quick, low-value transactions?
+A. CHAPS messaging
+B. NFC (near-field communication)
+C. CREST settlement
+D. SDRT collection
+Answer: B
+Explanation: Contactless payments use NFC-enabled cards or mobile wallets to process quick, low-value transactions.
+
+45. [Payments, Clearing & Settlement]
+Why are payment systems considered critical infrastructure within the financial sector?
+A. They have no impact on wholesale financial markets
+B. A failure in these systems can quickly spread financial shocks across firms and disrupt normal economic activity
+C. They are only used by central banks
+D. They are not subject to any regulatory oversight
+Answer: B
+Explanation: Because payment systems underpin both everyday transactions and high-value wholesale activity, a failure can spread financial shocks quickly and disrupt the wider economy.
+
+46. [Financial Crime]
+According to the FCA, financial crime includes a wide range of offences. Which of the following is an example?
+A. Late payment of a mortgage instalment
+B. Money laundering
+C. A customer switching their current account provider
+D. A firm reducing its product range
+Answer: B
+Explanation: Financial crime covers offences such as fraud, insider trading, money laundering and terrorist financing, all of which misuse the financial system for dishonest purposes.
+
+47. [Financial Crime]
+Which two pieces of legislation mainly cover fraud offences in the UK?
+A. The Bribery Act 2010 and SAMLA 2018
+B. The Fraud Act 2006 and the Theft Act 1968
+C. The Proceeds of Crime Act 2002 and the Bribery Act 2010
+D. The Financial Services Act 2012 and FSMA 2023
+Answer: B
+Explanation: Fraud is mainly covered by the Fraud Act 2006 and the Theft Act 1968, alongside relevant provisions in company and tax law.
+
+48. [Financial Crime]
+Which body leads on prosecuting fraud cases in the UK, while the FCA checks that firms have effective fraud-prevention procedures?
+A. The Serious Fraud Office (SFO)
+B. The Pensions Regulator
+C. HM Treasury
+D. The Information Commissioner's Office
+Answer: A
+Explanation: The Serious Fraud Office leads on fraud prosecutions, while the FCA's role is to ensure firms have effective procedures to prevent fraud against consumers.
+
+49. [Financial Crime]
+What is the main piece of legislation governing money laundering offences in the UK?
+A. The Bribery Act 2010
+B. The Theft Act 1968
+C. The Proceeds of Crime Act 2002 (POCA)
+D. The Consumer Credit Act 1974
+Answer: C
+Explanation: The Proceeds of Crime Act 2002 (POCA) is the main legislation covering money laundering offences in the UK.
+
+50. [Financial Crime]
+The Sanctions and Anti-Money Laundering Act 2018 (SAMLA) primarily allows the UK to:
+A. Set the official bank interest rate
+B. Impose sanctions and create anti-money laundering regulations
+C. Approve senior managers under SM&CR
+D. Regulate the conduct of building societies
+Answer: B
+Explanation: SAMLA 2018 allows the UK to impose sanctions and create its own anti-money laundering regulations.
+
+51. [Financial Crime]
+Bribery and corruption in the UK are primarily governed by which Act?
+A. The Bribery Act 2010
+B. The Fraud Act 2006
+C. The Financial Services Act 2012
+D. The Theft Act 1968
+Answer: A
+Explanation: The Bribery Act 2010 governs the use of corrupt methods to gain advantage, with the SFO as the primary enforcement body.
+
+52. [Financial Crime]
+The Financial Action Task Force (FATF), which sets global standards against money laundering and terrorist financing, was created in which year?
+A. 1979
+B. 1989
+C. 1999
+D. 2009
+Answer: B
+Explanation: The FATF was created in 1989 to lead international efforts against money laundering and terrorist financing.
+
+53. [Financial Crime]
+In December 2021, NatWest pleaded guilty to offences under the Money Laundering Regulations and was fined by Southwark Crown Court. Approximately how much was the fine?
+A. £26.4 million
+B. £100 million
+C. £264.8 million
+D. £700 million
+Answer: C
+Explanation: NatWest was fined £264.8 million, marking the first time the FCA successfully prosecuted a UK bank under anti-money laundering laws.
+
+54. [Financial Crime]
+A key failure highlighted in the NatWest money laundering case was that:
+A. The bank had no branches accepting cash deposits
+B. Its automated transaction monitoring system miscategorised many suspicious cash deposits as cheques
+C. The FCA had no power to prosecute banks at the time
+D. All staff concerns were promptly investigated and resolved
+Answer: B
+Explanation: NatWest's automated monitoring system miscategorised many suspicious cash deposits as cheques, reducing oversight and delaying investigation of the unusual activity.
+
+55. [Financial Crime]
+Why is trust considered central to preventing financial crime?
+A. Trust has no real bearing on financial transactions
+B. Every financial transaction relies on trust, and when it is broken through crime, confidence in the whole financial system is undermined
+C. Trust only matters in retail banking, not wholesale markets
+D. Regulators do not consider trust when assessing firms
+Answer: B
+Explanation: Financial transactions depend on trust, and when that trust is broken through fraud or money laundering, it damages confidence in the wider financial system, not just the firm involved.
+
+56. [Economy & Government Policy]
+Which of the following is NOT one of the government's four main macroeconomic objectives?
+A. Controlled inflation
+B. High levels of employment
+C. A fixed exchange rate with the US dollar
+D. Economic growth
+Answer: C
+Explanation: The government's four main objectives are controlled inflation, high employment, a healthy balance of payments, and economic growth; a fixed exchange rate is not one of them.
+
+57. [Economy & Government Policy]
+What is the UK government's official inflation target, measured by CPI?
+A. 0%
+B. 2%
+C. 5%
+D. 10%
+Answer: B
+Explanation: The government's inflation target, measured using the Consumer Prices Index (CPI), is 2%.
+
+58. [Economy & Government Policy]
+In normal circumstances, what range of CPI inflation is generally considered acceptable around the target?
+A. 0% to 0.5%
+B. 1% to 3%
+C. 3% to 6%
+D. 5% to 8%
+Answer: B
+Explanation: CPI between 1% and 3% is generally considered acceptable in normal circumstances, around the 2% target.
+
+59. [Economy & Government Policy]
+Unlike RPI, the Consumer Prices Index (CPI) does NOT include which type of cost?
+A. Food and groceries
+B. Mortgage or housing costs
+C. Transport costs
+D. Clothing costs
+Answer: B
+Explanation: CPI is based on a basket of household spending but does not include mortgage or housing costs, unlike RPI.
+
+60. [Economy & Government Policy]
+If inflation falls from 4% to 3%, but prices are still rising, this is an example of:
+A. Deflation
+B. Disinflation
+C. Quantitative easing
+D. A balance of payments surplus
+Answer: B
+Explanation: Disinflation occurs when the rate of inflation slows down, meaning prices are still rising but at a reduced pace; this is different from deflation, where prices actually fall.
+
+61. [Economy & Government Policy]
+Deflation is best described as:
+A. A slowdown in the rate of price increases
+B. Negative inflation, where prices actually decrease
+C. A rise in average wages above inflation
+D. An increase in the Bank of England base rate
+Answer: B
+Explanation: Deflation occurs when prices actually fall, resulting in negative inflation, which can reduce consumer spending and business revenues.
+
+62. [Economy & Government Policy]
+Gross Domestic Product (GDP), the main measure of economic growth, is calculated and reported:
+A. Daily
+B. Weekly
+C. Quarterly
+D. Once every five years
+Answer: C
+Explanation: GDP, the total value of the economy's output, is measured and reported on a quarterly basis.
+
+63. [Economy & Government Policy]
+The business cycle helps explain why governments find it difficult to:
+A. Set a Budget once a year
+B. Meet all of their economic objectives at the same time
+C. Collect income tax
+D. Appoint a Chancellor of the Exchequer
+Answer: B
+Explanation: Because economies naturally rise and fall through the business cycle, governments often struggle to keep inflation, employment, growth and the balance of payments all in balance at once.
+
+64. [Economy & Government Policy]
+Which of the following is an example of fiscal policy, rather than monetary policy?
+A. The Bank of England raising the base rate
+B. The Monetary Policy Committee using quantitative easing
+C. The government increasing public spending through the furlough scheme
+D. The Bank of England acting as lender of last resort
+Answer: C
+Explanation: Fiscal policy concerns government spending, taxation and borrowing, such as the furlough scheme; monetary policy is the Bank of England's tool involving interest rates and QE.
+
+65. [Economy & Government Policy]
+Quantitative Easing (QE) works by the Bank of England:
+A. Raising interest rates sharply to control inflation
+B. Creating new money electronically to buy government bonds and other assets
+C. Increasing the rate of VAT
+D. Lending directly to individual consumers
+Answer: B
+Explanation: QE involves the Bank of England creating new money electronically to buy government bonds and other assets, pushing more money into the financial system to encourage spending and investment.
+
+66. [Economy & Government Policy]
+During the Covid-19 pandemic, the Bank of England cut its base rate to a record low of:
+A. 0%
+B. 0.1%
+C. 0.5%
+D. 1%
+Answer: B
+Explanation: The Bank of England cut interest rates to a record low of 0.1% during the pandemic as part of its expansionary monetary policy.
+
+67. [Economy & Government Policy]
+The Public Sector Net Cash Requirement (PSNCR) measures:
+A. The government's total accumulated national debt
+B. The annual cash borrowing requirement of the public sector
+C. The interest rate charged on gilts
+D. The total value of UK GDP
+Answer: B
+Explanation: The PSNCR measures the annual cash borrowing requirement of the public sector, not the total accumulated debt.
+
+68. [Economy & Government Policy]
+Which of the following best describes an indirect tax?
+A. A tax taken straight from an individual's income
+B. A tax added to the price of goods and services
+C. A tax charged only on company profits
+D. A tax charged only on capital gains
+Answer: B
+Explanation: Indirect taxes, such as VAT, are added to the price of goods and services, while direct taxes are taken straight from income or wealth.
+
+69. [Economy & Government Policy]
+The UK tax year runs from:
+A. 1 January to 31 December
+B. 1 April to 31 March
+C. 6 April to 5 April
+D. 6 January to 5 January
+Answer: C
+Explanation: The UK tax year runs from 6 April to 5 April each year.
+
+70. [Economy & Government Policy]
+Under the 183-day rule, an individual is automatically treated as UK resident for tax purposes if they:
+A. Own property in the UK, regardless of time spent there
+B. Spend 183 days or more in the UK during a tax year
+C. Hold a UK bank account for more than six months
+D. Pay UK National Insurance contributions
+Answer: B
+Explanation: Spending 183 days or more in the UK during a tax year automatically makes an individual UK resident for tax purposes, affecting liability to income tax and capital gains tax.
+
+71. [Taxation]
+Which body is responsible for collecting tax in the UK?
+A. The Bank of England
+B. HM Revenue and Customs (HMRC)
+C. The Financial Conduct Authority
+D. The Pensions Regulator
+Answer: B
+Explanation: HM Revenue and Customs (HMRC) is responsible for collecting tax, while the Treasury, led by the Chancellor of the Exchequer, oversees tax policy.
+
+72. [Taxation]
+Tax allowances and rates in the UK are decided:
+A. Once every five years by Parliament
+B. Each year in the government's Budget, so they can change annually
+C. Solely by HMRC without government involvement
+D. By the Bank of England's Monetary Policy Committee
+Answer: B
+Explanation: Tax allowances and rates are decided each year in the government's Budget and can change from one year to the next.
+
+73. [Taxation]
+Which three taxes are described as the largest contributors to government revenue?
+A. Income tax, National Insurance contributions and VAT
+B. Corporation tax, Stamp Duty and Capital Gains Tax
+C. Inheritance Tax, VAT and council tax
+D. National Insurance, council tax and corporation tax
+Answer: A
+Explanation: Income tax, National Insurance contributions and VAT are described as the largest contributors to the government's revenue.
+
+74. [Taxation]
+Which of the following is NOT required to pay corporation tax on its profits?
+A. A limited company
+B. A housing association
+C. A self-employed sole trader
+D. A trade body
+Answer: C
+Explanation: Corporation tax applies to limited companies and similar bodies such as clubs, societies and housing associations; sole traders and partnerships are instead taxed through the income tax system.
+
+75. [Taxation]
+A company resident overseas that carries out some business activities in the UK will pay UK corporation tax on:
+A. All of its worldwide profits
+B. Only the profits it makes from UK business activities
+C. Nothing, as overseas companies are exempt
+D. Only its dividend income
+Answer: B
+Explanation: A UK-resident company pays corporation tax on its worldwide profits, while an overseas-resident company only pays UK corporation tax on profits from its UK business activities.
+
+76. [Taxation]
+Which of the following disposals would typically give rise to a capital gains tax charge?
+A. The sale of an individual's only and main residence
+B. The sale of a portfolio of listed shares held outside an ISA
+C. A gift between spouses who live together
+D. The maturity of a cash ISA
+Answer: B
+Explanation: Disposing of shares held outside a tax-efficient wrapper can trigger CGT, whereas a main residence, inter-spouse gifts and ISA proceeds are generally exempt.
+
+77. [Taxation]
+What is the standard nil-rate band (NRB) for inheritance tax purposes referred to in this course?
+A. £175,000
+B. £250,000
+C. £325,000
+D. £500,000
+Answer: C
+Explanation: The standard nil-rate band for inheritance tax is currently £325,000.
+
+78. [Taxation]
+The Residence Nil Rate Band (RNRB) specifically applies to:
+A. Any asset left to a spouse
+B. The value of a main residence passed to direct descendants
+C. Gifts made to charity
+D. Business assets held for over two years
+Answer: B
+Explanation: The RNRB is an additional allowance that applies only to the value of a main residence passed to direct descendants such as children or grandchildren.
+
+79. [Taxation]
+Combining the standard NRB and RNRB, how much can typically be passed on free of inheritance tax for a married couple, depending on estate size?
+A. Up to £325,000
+B. Up to £500,000
+C. Up to £650,000
+D. Up to £1 million
+Answer: D
+Explanation: Together, the NRB and RNRB can allow up to £500,000 per person, or up to £1 million for a couple, to be passed on free of inheritance tax, depending on the estate's value.
+
+80. [Taxation]
+Maya gifted £150,000 into a discretionary trust five years ago and now gifts a further £250,000 into another relevant property trust. With a nil-rate band of £325,000, what immediate lifetime IHT charge applies to the excess?
+A. £5,000
+B. £15,000
+C. £25,000
+D. £75,000
+Answer: B
+Explanation: Total gifts over seven years are £400,000; the excess over the £325,000 nil-rate band is £75,000, and a 20% immediate charge on this excess equals £15,000.
+
+81. [Taxation]
+If a settlor survives seven years from the date of a chargeable lifetime transfer, what happens to the IHT position?
+A. The full 20% lifetime charge is refunded
+B. No further IHT is due, but any 20% charge already paid is not refunded
+C. The gift becomes subject to a 40% charge
+D. The gift is automatically added back into the estate
+Answer: B
+Explanation: If the settlor survives seven years, no further inheritance tax is due on the gift, although any 20% lifetime charge already paid is not refunded.
+
+82. [Taxation]
+Emma spends much of the year working overseas but her main home and family remain in Manchester, and her presence in the UK is regular and continuing. For tax purposes, Emma is likely to be treated as:
+A. Non-resident, and exempt from UK tax
+B. Ordinarily resident, and taxable on her worldwide income
+C. A UK domiciled trustee
+D. Exempt under the 183-day rule
+Answer: B
+Explanation: Because her presence in the UK is regular and continuing, with her home and family based there, Emma is treated as ordinarily resident and taxable on her worldwide income.
+
+83. [Taxation]
+What is the main tax advantage of using an ISA as part of a financial plan?
+A. ISAs guarantee a fixed rate of investment return
+B. Growth and withdrawals from an ISA are tax-free
+C. ISAs are exempt from FCA regulation
+D. ISAs automatically reduce a client's income tax band
+Answer: B
+Explanation: ISAs allow for tax-free growth and tax-free withdrawals, making them an efficient tool for managing a client's overall tax position.
+
+84. [Taxation]
+"Tax drag" refers to:
+A. The administrative delay in HMRC processing a tax return
+B. The erosion of investment returns through unnecessary taxation
+C. The interest charged on late payment of corporation tax
+D. The reduction in the nil-rate band due to lifetime gifts
+Answer: B
+Explanation: Tax drag describes how returns are eroded through unnecessary taxation, which advisers aim to reduce through appropriate product choice and withdrawal sequencing.
+
+85. [Taxation]
+Offshore accounts are most relevant to tax planning for clients who are:
+A. Permanently resident and domiciled in the UK with no overseas ties
+B. Changing their residence or domicile status
+C. Claiming Universal Credit
+D. Approaching the normal minimum pension age
+Answer: B
+Explanation: Offshore accounts can be a relevant consideration for clients who are changing their residence or domicile, as this affects how their worldwide income and gains are taxed.
+
+86. [State Benefits & State Pension]
+National Insurance contributions primarily help fund which of the following?
+A. Local council services only
+B. The NHS, State Pension and unemployment support
+C. Corporation tax relief for small businesses
+D. The Financial Ombudsman Service
+Answer: B
+Explanation: National Insurance is a form of tax that funds state benefits including the NHS, the State Pension and unemployment support.
+
+87. [State Benefits & State Pension]
+Universal Credit is best described as:
+A. A non-means-tested benefit available to everyone over 18
+B. A means-tested benefit, with entitlement depending on income, savings and household situation
+C. Only available to people who have never worked
+D. A benefit exclusively for pensioners
+Answer: B
+Explanation: Universal Credit is means-tested, so entitlement depends on the claimant's income, savings and household circumstances.
+
+88. [State Benefits & State Pension]
+New-style Jobseeker's Allowance (JSA) is:
+A. Means-tested and tax-free
+B. A contribution-based benefit, taxable but not means-tested
+C. Only available to the self-employed
+D. Paid indefinitely until the claimant finds work
+Answer: B
+Explanation: New-style JSA is a contribution-based benefit, paid at a flat rate for up to six months, which is taxable but not means-tested.
+
+89. [State Benefits & State Pension]
+Employment and Support Allowance (ESA) is primarily intended to support people who:
+A. Have recently retired
+B. Cannot work due to illness or disability
+C. Are caring for a relative for at least 35 hours a week
+D. Have a child under the age of one
+Answer: B
+Explanation: ESA supports people who cannot work due to illness or disability, and is taxable but not means-tested, subject to sufficient NIC contributions.
+
+90. [State Benefits & State Pension]
+Statutory Sick Pay (SSP) is paid by the employer after how many consecutive days of absence?
+A. One day
+B. Four days
+C. Fourteen days
+D. Twenty-eight days
+Answer: B
+Explanation: SSP is payable by employers after four consecutive days of absence due to illness or disability.
+
+91. [State Benefits & State Pension]
+To qualify for Statutory Maternity Pay (SMP), an employee must have worked continuously for their employer for at least how many weeks before the qualifying week?
+A. 13 weeks
+B. 26 weeks
+C. 39 weeks
+D. 52 weeks
+Answer: B
+Explanation: SMP requires at least 26 weeks of continuous employment before the qualifying week (15 weeks before the baby is due), and is paid for up to 39 weeks.
+
+92. [State Benefits & State Pension]
+Maternity Allowance is mainly intended for:
+A. Employees who already qualify for SMP
+B. Self-employed people or those not eligible for SMP
+C. Fathers taking shared parental leave
+D. Grandparents providing childcare
+Answer: B
+Explanation: Maternity Allowance is for those not eligible for SMP, such as self-employed people or those who recently stopped working, and is paid by the DWP.
+
+93. [State Benefits & State Pension]
+To claim Carer's Allowance, a person must generally provide care for at least how many hours per week?
+A. 16 hours
+B. 21 hours
+C. 28 hours
+D. 35 hours
+Answer: D
+Explanation: Carer's Allowance is a taxable flat-rate benefit available to people providing at least 35 hours of care per week for someone receiving certain disability benefits.
+
+94. [State Benefits & State Pension]
+Personal Independence Payment (PIP) is:
+A. Means-tested and only available to people over State Pension age
+B. Not means-tested, available to people under State Pension age needing support with daily living or mobility
+C. A taxable benefit paid only to carers
+D. Restricted to people who have paid sufficient National Insurance contributions
+Answer: B
+Explanation: PIP is not means-tested or dependent on NICs, and is available to people under State Pension age who need support with daily living or mobility, split into two component parts.
+
+95. [State Benefits & State Pension]
+Attendance Allowance differs from PIP mainly because it is aimed at:
+A. People under 16 with a disability
+B. People over State Pension age who need help with personal care
+C. Employed people on sick leave
+D. People who are unemployed and actively seeking work
+Answer: B
+Explanation: Attendance Allowance is a non-taxable, non-means-tested benefit for people over State Pension age who need help with personal care due to sickness or disability.
+
+96. [State Benefits & State Pension]
+Child Benefit can become subject to a tax charge if:
+A. The child turns 16 and leaves full-time education
+B. Either partner in the household has adjusted net income above a set threshold
+C. The family has more than two children
+D. The claimant is self-employed
+Answer: B
+Explanation: Child Benefit is tax-free but subject to a "high income child benefit charge" if either partner in a household has adjusted net income above a set threshold.
+
+97. [State Benefits & State Pension]
+Support for Mortgage Interest (SMI) is best described as:
+A. A non-repayable grant from the government
+B. A government-backed loan that covers monthly mortgage interest, secured as a second charge
+C. A reduction in the borrower's mortgage interest rate
+D. A benefit that covers both capital and interest repayments
+Answer: B
+Explanation: SMI is a government-backed loan, secured as a second charge against the property, that covers monthly mortgage interest only, not capital repayments.
+
+98. [State Benefits & State Pension]
+Under the old State Pension system (before April 2016), how many qualifying years of National Insurance contributions were needed for a full basic State Pension?
+A. 10 years
+B. 20 years
+C. 30 years
+D. 35 years
+Answer: C
+Explanation: Under the old system, 30 qualifying years were needed for a full basic State Pension, compared with 35 years under the new system.
+
+99. [State Benefits & State Pension]
+Under the new State Pension system (from April 2016), what is the minimum number of qualifying years needed to receive any pension at all?
+A. 1 year
+B. 5 years
+C. 10 years
+D. 15 years
+Answer: C
+Explanation: The new State Pension requires a minimum of 10 qualifying years of NICs to receive any pension, and 35 qualifying years for the full amount.
+
+100. [State Benefits & State Pension]
+Under the triple lock, the State Pension rises each year by the highest of which three measures?
+A. Average UK earnings growth, CPI inflation, or 2.5%
+B. GDP growth, RPI inflation, or 1%
+C. Average UK earnings growth, house price growth, or 3%
+D. CPI inflation, base rate changes, or 5%
+Answer: A
+Explanation: The triple lock increases the State Pension each year by the highest of average earnings growth, CPI inflation, or a minimum of 2.5%.
+
+101. [Pensions]
+A UK resident can normally contribute to a personal pension and receive tax relief, even with no earnings, up until what age?
+A. 65
+B. 70
+C. 75
+D. 80
+Answer: C
+Explanation: Any UK resident under age 75 can contribute to a personal pension and receive tax relief, even if they are not working.
+
+102. [Pensions]
+The annual allowance in pensions refers to:
+A. The maximum tax-free cash that can be taken at retirement
+B. The cap on total contributions that benefit from tax relief in a given year
+C. The minimum age at which pension benefits can be taken
+D. The maximum number of pension schemes a person can hold
+Answer: B
+Explanation: The annual allowance caps the total amount of pension contributions that can benefit from tax relief in a tax year.
+
+103. [Pensions]
+What is the normal maximum proportion of a pension fund that can be taken as tax-free cash when benefits are crystallised?
+A. 10%
+B. 25%
+C. 50%
+D. 100%
+Answer: B
+Explanation: Up to 25% of a pension fund can normally be taken as tax-free cash when benefits are crystallised, with the remainder used to provide taxable income.
+
+104. [Pensions]
+The normal minimum pension age, currently 55, is due to rise to which age in 2028?
+A. 56
+B. 57
+C. 60
+D. 65
+Answer: B
+Explanation: The normal minimum pension age will rise from 55 to 57 in 2028, remaining ten years below State Pension age.
+
+105. [Pensions]
+By the end of 2028, the State Pension age is due to rise to:
+A. 66
+B. 67
+C. 68
+D. 70
+Answer: B
+Explanation: The State Pension age will rise to 67 by the end of 2028.
+
+106. [Pensions]
+A basic rate taxpayer wants £500 to be paid into their personal pension. Given basic rate tax relief is added at source, how much will they need to pay from their own pocket?
+A. £350
+B. £400
+C. £450
+D. £475
+Answer: B
+Explanation: The government adds 20% basic rate tax relief, so a taxpayer only needs to pay £400 from their own pocket for a full £500 to be credited to the pension (£400 + £100 relief = £500).
+
+107. [Pensions]
+A higher rate taxpayer makes a £100 pension contribution and claims the additional relief due via self-assessment. What is the real cost to them after all relief is claimed?
+A. £40
+B. £60
+C. £80
+D. £100
+Answer: B
+Explanation: Basic rate relief of £20 is added at source, and the higher rate taxpayer can claim a further £20 through self-assessment, reducing the real cost of a £100 contribution to £60.
+
+108. [Pensions]
+Under typical auto-enrolment contribution benchmarks, what is the employer's minimum contribution as a percentage of qualifying earnings?
+A. 1%
+B. 3%
+C. 4%
+D. 8%
+Answer: B
+Explanation: Typical auto-enrolment benchmarks set the employer minimum contribution at 3% of qualifying earnings, with the employee contributing 4% plus 1% tax relief.
+
+109. [Pensions]
+Which statement best distinguishes a Defined Benefit (DB) pension from a Defined Contribution (DC) pension?
+A. DB is a pot whose value depends on investment performance; DC offers a fixed income for life
+B. DB offers a fixed income for life like a promise; DC is a pot whose size depends on contributions, growth and charges
+C. Both DB and DC guarantee the same retirement income
+D. DC schemes are only available to the self-employed
+Answer: B
+Explanation: A Defined Benefit scheme is essentially a promise of fixed income for life, while a Defined Contribution scheme builds a pot whose eventual value depends on contributions, investment growth and charges.
+
+110. [Pensions]
+A non-earner can still receive tax relief on personal pension contributions, up to a maximum gross amount per year of:
+A. £2,880
+B. £3,600
+C. £5,000
+D. £40,000
+Answer: B
+Explanation: Even non-earners can receive tax relief on personal pension contributions up to £3,600 gross a year.
+
+111. [Customer Relations & Consumer Duty]
+A thorough fact find, combining hard and soft facts about a client, is a key activity under which set of rules?
+A. Client Assets Sourcebook (CASS)
+B. Know Your Customer (KYC) rules
+C. The Senior Managers and Certification Regime
+D. The Mortgage Conduct of Business (MCOB) rules
+Answer: B
+Explanation: Completing a thorough fact find, covering hard and soft facts, is a key activity under Know Your Customer (KYC) rules, helping advisers give suitable advice.
+
+112. [Customer Relations & Consumer Duty]
+A client's "risk appetite" reflects which two combined factors?
+A. Their age and their postcode
+B. Their attitude towards risk and their capacity for risk
+C. Their income and their employer's pension scheme
+D. Their credit score and outstanding debts
+Answer: B
+Explanation: Risk appetite reflects both attitude to risk, how comfortable someone feels about potential losses, and capacity for risk, how much loss they could realistically afford.
+
+113. [Customer Relations & Consumer Duty]
+The FCA's 12 Principles for Businesses are best described as:
+A. Detailed, prescriptive rules covering every possible scenario
+B. High-level standards of behaviour that apply to every authorised firm, regardless of size or sector
+C. Voluntary guidelines that firms may choose to ignore
+D. Rules that apply only to mortgage lenders
+Answer: B
+Explanation: The 12 Principles are high-level standards of behaviour, not prescriptive rules, applying to every authorised firm regardless of size or sector.
+
+114. [Customer Relations & Consumer Duty]
+The Consumer Duty, which sets a higher standard of customer care, came into force in:
+A. January 2018
+B. April 2022
+C. July 2024
+D. January 2025
+Answer: C
+Explanation: The Consumer Duty was introduced in July 2024, establishing a higher standard of customer care across financial services.
+
+115. [Customer Relations & Consumer Duty]
+Which of the following is one of the Consumer Duty's three overarching requirements for firms?
+A. Maximise short-term sales targets
+B. Avoid foreseeable harm to customers
+C. Offer the cheapest product in the market regardless of suitability
+D. Limit communication with customers to reduce complaints
+Answer: B
+Explanation: The Consumer Duty requires firms to act in good faith, avoid foreseeable harm, and enable and support customers to meet their financial goals.
+
+116. [Customer Relations & Consumer Duty]
+Which of the following is one of the Consumer Duty's four key customer outcomes?
+A. Guaranteed investment returns
+B. Products and services that meet genuine customer needs
+C. Unlimited free advice for all customers
+D. Automatic compensation for any loss
+Answer: B
+Explanation: The four Consumer Duty outcomes are clear and fair communications, products and services that meet genuine needs, accessible customer service, and fair price and value.
+
+117. [Customer Relations & Consumer Duty]
+Treating Customers Fairly (TCF), introduced in 2010, is best described in relation to the Consumer Duty as:
+A. An unrelated initiative with no connection to the Consumer Duty
+B. A foundation that the Consumer Duty has since built upon
+C. A scheme that replaced the Consumer Duty in 2024
+D. A voluntary code with no regulatory backing
+Answer: B
+Explanation: TCF, introduced in 2010, served as a foundation for fair treatment of customers, which the Consumer Duty has since built upon and strengthened.
+
+118. [Customer Relations & Consumer Duty]
+FCA research in 2023 found that only what proportion of people were confident in the financial services industry?
+A. 21%
+B. 41%
+C. 61%
+D. 81%
+Answer: B
+Explanation: FCA research in 2023 found that only 41% of people were confident in the financial services industry, with just 36% believing firms treat them honestly and transparently.
+
+119. [Customer Relations & Consumer Duty]
+MoneyHelper, which provides free and impartial guidance on money, pensions and debt, was rebranded in which year?
+A. 2010
+B. 2018
+C. 2021
+D. 2024
+Answer: C
+Explanation: The Money and Pensions Service rebranded as MoneyHelper in 2021 to provide a more accessible guidance service.
+
+120. [Customer Relations & Consumer Duty]
+MoneyHelper was established under which piece of legislation?
+A. The Financial Services Act 2012
+B. The Financial Guidance and Claims Act 2018
+C. The Pension Schemes Act 2015
+D. The Consumer Credit Act 1974
+Answer: B
+Explanation: MoneyHelper traces back to the Money and Pensions Service, created under the Financial Guidance and Claims Act 2018.
+
+121. [Mortgages & Lending]
+A mortgage is best defined as:
+A. An unsecured personal loan for any purpose
+B. A long-term loan secured on property through a legal charge
+C. A short-term bridging facility only
+D. A government-backed grant for first-time buyers
+Answer: B
+Explanation: A mortgage is a long-term loan secured on property through a legal charge, distinguishing it from unsecured forms of borrowing.
+
+122. [Mortgages & Lending]
+"Equity" in a property is defined as:
+A. The original purchase price of the property
+B. The difference between the property's value and the total borrowing secured against it
+C. The annual rental income generated by a buy-to-let property
+D. The amount of Stamp Duty paid on purchase
+Answer: B
+Explanation: Equity is the difference between the property's value and the total amount of borrowing secured against it.
+
+123. [Mortgages & Lending]
+Where a property has both a first and second legal charge, and the property is sold, who is repaid first?
+A. The second charge lender
+B. The first charge lender
+C. Both lenders are repaid simultaneously and equally
+D. Whichever lender registered the charge most recently
+Answer: B
+Explanation: Priority follows the order of registration, so the first charge lender is repaid before any second charge lender receives proceeds.
+
+124. [Mortgages & Lending]
+Regulated mortgages and home finance in the UK are governed under which FCA rulebook?
+A. CONC (Consumer Credit Sourcebook)
+B. CASS (Client Assets Sourcebook)
+C. MCOB (Mortgage Conduct of Business)
+D. COCON (Code of Conduct)
+Answer: C
+Explanation: Mortgages and home finance are regulated under the FCA's MCOB rules, which ensure fair treatment, suitability and clear communication with borrowers.
+
+125. [Mortgages & Lending]
+A bridging loan is primarily designed to:
+A. Provide a long-term fixed-rate mortgage
+B. Bridge the gap between buying a new property and selling an existing one
+C. Replace the need for a repayment vehicle on an interest-only mortgage
+D. Fund a buy-to-let portfolio over a 25-year term
+Answer: B
+Explanation: A bridging loan provides short-term funds to bridge the gap between purchasing a new property and selling an existing one.
+
+126. [Mortgages & Lending]
+Why is a clear exit strategy considered essential when arranging a bridging loan?
+A. Bridging loans have no interest charges
+B. Bridging loans typically carry high interest rates due to their short-term, higher-risk nature
+C. Bridging loans cannot be secured against property
+D. Bridging loans are never regulated by the FCA
+Answer: B
+Explanation: Bridging loans typically have high interest rates due to their short-term, higher-risk nature, so a clear exit strategy, such as a property sale or remortgage, is essential.
+
+127. [Mortgages & Lending]
+Unsecured lending products, such as personal loans and credit cards, are regulated under which FCA sourcebook?
+A. MCOB
+B. CASS
+C. CONC
+D. SYSC
+Answer: C
+Explanation: Unsecured lending products are regulated under CONC, the Consumer Credit Sourcebook, which ensures fair treatment, clear disclosure of costs and responsible lending.
+
+128. [Mortgages & Lending]
+On an interest-only mortgage, the borrower's monthly payments:
+A. Cover both interest and capital, reducing the balance over time
+B. Cover interest only, meaning the capital does not reduce without a separate repayment vehicle
+C. Are fixed regardless of the loan balance
+D. Automatically convert to a repayment mortgage after five years
+Answer: B
+Explanation: On an interest-only mortgage, monthly payments cover interest only, so the capital balance does not reduce; a separate repayment vehicle is needed to repay the capital at term end.
+
+129. [Mortgages & Lending]
+Compared with an interest-only mortgage, a repayment mortgage is generally considered:
+A. Higher risk, because the balance never reduces
+B. Lower risk, because monthly payments reduce both interest and capital over time
+C. Unsuitable for any first-time buyer
+D. Unregulated under MCOB
+Answer: B
+Explanation: A repayment mortgage is generally considered lower risk because monthly payments cover both interest and capital, so the balance reduces and is cleared by the end of the term if all payments are made.
+
+130. [Mortgages & Lending]
+Under MCOB rules, a mortgage recommendation must take into account:
+A. Only the client's credit score
+B. Only the lender's commercial preferences
+C. The client's individual circumstances, objectives and ability to repay
+D. The size of the property alone
+Answer: C
+Explanation: A key requirement of regulated mortgages under MCOB is that any recommendation must take into account the client's individual circumstances, objectives and ability to repay.
+
+131. [Protection & General Insurance]
+The legal requirement for "insurable interest" in a life assurance contract originates from which Act?
+A. The Life Assurance Act 1774
+B. The Married Women's Property Act 1882
+C. The Consumer Insurance (Disclosure and Representations) Act 2012
+D. The Theft Act 1968
+Answer: A
+Explanation: The principle of insurable interest, a genuine financial connection to the life insured, was introduced by the Life Assurance Act 1774 to prevent speculative policies.
+
+132. [Protection & General Insurance]
+Critical Illness Cover (CIC) typically pays out:
+A. A regular monthly income for life
+B. A tax-free lump sum on diagnosis of a specified serious illness
+C. A repayment of all premiums paid, with no further benefit
+D. Only the cost of private medical treatment
+Answer: B
+Explanation: Critical illness cover pays a tax-free lump sum if the policyholder is diagnosed with one of a defined list of serious medical conditions.
+
+133. [Protection & General Insurance]
+On a standalone Critical Illness Cover policy, what is the "survival period"?
+A. The minimum age at which a claim can be made
+B. The minimum period the insured must survive after diagnosis before the benefit is paid
+C. The maximum term of the policy
+D. The period during which premiums are waived
+Answer: B
+Explanation: Standalone CIC plans usually require the insured to survive a minimum period after diagnosis, known as the survival period, before the benefit is paid.
+
+134. [Protection & General Insurance]
+Income Protection Insurance (IPI), previously known as permanent health insurance, is designed to:
+A. Pay a single tax-free lump sum on diagnosis of a critical illness
+B. Pay a regular replacement income if illness or disability prevents the policyholder working long-term
+C. Cover redundancy costs only
+D. Pay the outstanding mortgage balance in full on death
+Answer: B
+Explanation: IPI pays a regular replacement income, rather than a lump sum, if illness or disability prevents the policyholder from working over the long term.
+
+135. [Protection & General Insurance]
+IPI benefits are normally capped at what proportion of pre-disability earnings, to avoid moral hazard?
+A. 25% to 35%
+B. 50% to 65%
+C. 75% to 85%
+D. 90% to 100%
+Answer: B
+Explanation: IPI benefits are normally capped at 50% to 65% of pre-disability earnings, ensuring it always pays to return to work.
+
+136. [Protection & General Insurance]
+A self-employed graphic designer earning £54,000 a year takes out an IPI policy with a maximum benefit of 60% of pre-disability earnings. What is the maximum monthly benefit they could receive?
+A. £1,890
+B. £2,250
+C. £2,700
+D. £3,240
+Answer: C
+Explanation: £54,000 ÷ 12 × 60% = £2,700, consistent with the typical IPI benefit cap of 50% to 65% of pre-disability earnings.
+
+137. [Protection & General Insurance]
+Which of the following is a common deferred period offered on an IPI policy?
+A. 2 weeks
+B. 13 weeks
+C. 75 weeks
+D. 150 weeks
+Answer: B
+Explanation: A deferred period commonly applies to IPI policies, typically set at 4, 13, 26, 52 or 104 weeks; the longer the deferral, the lower the premium.
+
+138. [Protection & General Insurance]
+A key advantage of IPI, once in force, is that:
+A. Premiums reduce automatically each year
+B. It is non-cancellable by the insurer as long as premiums are paid
+C. It can be claimed on multiple times without affecting future premiums
+D. It pays out regardless of whether the policyholder is working
+Answer: B
+Explanation: Once in place, IPI cover is non-cancellable by the insurer as long as premiums continue to be paid, a key distinction from short-term products like ASU.
+
+139. [Protection & General Insurance]
+Accident, Sickness and Unemployment (ASU) insurance is best described as:
+A. A long-term policy guaranteed to age 65
+B. A general insurance policy offering short-term income replacement
+C. A form of critical illness cover
+D. A type of buildings insurance
+Answer: B
+Explanation: ASU is a general insurance policy that offers short-term income replacement if the policyholder cannot work due to accident, illness or involuntary redundancy.
+
+140. [Protection & General Insurance]
+What is the typical maximum payout period for an ASU policy?
+A. 3 to 6 months
+B. 12 to 24 months
+C. 5 years
+D. Until retirement age
+Answer: B
+Explanation: ASU's maximum payout is usually 12 to 24 months, making it a stopgap rather than a long-term protection solution.
+
+141. [Protection & General Insurance]
+Unlike IPI, an ASU policy:
+A. Cannot be cancelled by the insurer under any circumstances
+B. Is written as an annual contract, so the insurer can decline to renew at expiry
+C. Always runs until the policyholder's retirement age
+D. Is exempt from FCA regulation
+Answer: B
+Explanation: ASU policies are written as annual contracts, meaning the insurer can decline to renew them at expiry, unlike non-cancellable IPI cover.
+
+142. [Protection & General Insurance]
+Mortgage Payment Protection Insurance (MPPI) is best described as:
+A. A standalone form of life assurance
+B. A variant of ASU that pays the mortgage and associated costs directly to the lender
+C. A type of buildings insurance covering subsidence
+D. A government scheme replacing Support for Mortgage Interest
+Answer: B
+Explanation: MPPI is a variant of ASU insurance, paying the mortgage and associated costs directly to the lender if the policyholder cannot work.
+
+143. [Protection & General Insurance]
+General insurance policies are described as "contracts of indemnity" because they:
+A. Allow the policyholder to profit from a claim
+B. Aim to restore the claimant to the financial position they were in before the loss, without allowing a profit
+C. Guarantee a fixed payout regardless of the loss incurred
+D. Only apply to commercial property
+Answer: B
+Explanation: General insurance policies are contracts of indemnity, designed to put the claimant back in their pre-loss financial position without allowing them to profit.
+
+144. [Protection & General Insurance]
+Which of the following is typically classed as a standard "peril" covered under buildings insurance?
+A. Wear and tear from normal use
+B. Subsidence, landslip or heave
+C. Voluntary demolition of the property
+D. Loss of rental income due to a tenant moving out
+Answer: B
+Explanation: Standard perils under buildings insurance commonly include fire, storm, flood, escape of water, theft, and subsidence, landslip or heave.
+
+145. [Protection & General Insurance]
+Many buildings insurance policies restrict certain perils if a property is left unoccupied beyond what period?
+A. 7 or 14 days
+B. 30 or 60 days
+C. 6 months
+D. 12 months
+Answer: B
+Explanation: Many buildings insurance policies restrict certain perils if a property is unoccupied beyond 30 or 60 days.
+
+146. [Legal Concepts]
+If an agent acts within the authority actually granted by their principal, the principal is:
+A. Not bound by the agent's actions
+B. Bound by the agent's actions
+C. Only bound if the third party is also a regulated firm
+D. Free to ratify or reject the action at will
+Answer: B
+Explanation: If an agent acts within actual authority, the principal is bound by the agent's actions.
+
+147. [Legal Concepts]
+"Apparent authority" in agency law arises when:
+A. The agent claims authority they do not have, with no input from the principal
+B. The principal's words or behaviour suggest the agent has authority, even if this was not expressly granted
+C. A court automatically assumes all agents have full authority
+D. The agent has a written contract with the third party
+Answer: B
+Explanation: Apparent authority arises where the principal's words or conduct give the impression that the agent has authority, which can bind the principal even without actual authority.
+
+148. [Legal Concepts]
+Which of the following is required for a contract to be legally valid?
+A. Offer, acceptance and consideration
+B. A solicitor's signature
+C. Registration with the FCA
+D. A minimum value of £100
+Answer: A
+Explanation: Valid contracts require offer, acceptance and consideration, along with capacity, intention, legality, certain terms and free consent.
+
+149. [Legal Concepts]
+The Consumer Insurance (Disclosure and Representations) Act 2012 (CIDRA), effective from 6 April 2013, changed consumer disclosure duties so that consumers must:
+A. Volunteer every fact that might be material, whether asked or not
+B. Take reasonable care to answer the insurer's questions fully and accurately
+C. Provide no information at all, with insurers solely responsible for research
+D. Disclose information only after a claim is made
+Answer: B
+Explanation: CIDRA 2012 replaced the duty to volunteer every material fact with a duty to take reasonable care in answering the insurer's specific questions fully and accurately.
+
+150. [Legal Concepts]
+Under CIDRA 2012, if a consumer's misrepresentation is deliberate or reckless, the insurer may typically:
+A. Apply a proportionate remedy based on what it would otherwise have done
+B. Treat the policy as if it never existed and usually keep the premium
+C. Simply increase the premium going forward
+D. Take no action, as deliberate misrepresentation is treated the same as an honest mistake
+Answer: B
+Explanation: Where a misrepresentation is deliberate or reckless, the insurer may treat the policy as if it never existed and is usually entitled to keep the premium paid.
+
+151. [Legal Concepts]
+What is the key difference between joint tenancy and tenancy in common on the death of one owner?
+A. There is no difference; both pass automatically to the survivor
+B. Joint tenancy passes automatically to the surviving owner(s); tenancy in common passes the deceased's share via their estate
+C. Tenancy in common always requires a court order to transfer ownership
+D. Joint tenancy can only apply to commercial property
+Answer: B
+Explanation: Under joint tenancy, ownership passes automatically to the surviving owner(s), whereas under tenancy in common, the deceased's beneficial share forms part of their estate and passes under their will or intestacy.
+
+152. [Legal Concepts]
+In bankruptcy, a bankrupt's interest in their home becomes an asset available to creditors if the equity exceeds:
+A. £500
+B. £1,000
+C. £10,000
+D. £50,000
+Answer: B
+Explanation: The bankrupt's interest in the home becomes an asset available to creditors if the equity in the property is more than £1,000.
+
+153. [Legal Concepts]
+If a bankrupt's family lives in the home, the sale of the property can typically be delayed for how long to allow time to find alternative housing?
+A. 1 month
+B. 6 months
+C. 12 months
+D. 5 years
+Answer: C
+Explanation: If the family lives in the property, sale can be delayed for 12 months to allow time to find alternative housing.
+
+154. [Legal Concepts]
+For an Individual Voluntary Arrangement (IVA) to be approved, what proportion of creditors by value must vote in favour?
+A. 50%
+B. 60%
+C. 75%
+D. 90%
+Answer: C
+Explanation: Creditors representing 75% by value of the debts at the meeting must vote in favour for an IVA to be approved.
+
+155. [Legal Concepts]
+Which of the following is an eligibility requirement for a Debt Relief Order (DRO)?
+A. Total debts under £50,000 and gross assets no more than £2,000
+B. Total debts under £500,000 and no assets at all
+C. The applicant must already be subject to bankruptcy proceedings
+D. The applicant must have over £10,000 in disposable income
+Answer: A
+Explanation: DRO eligibility broadly requires total debts under £50,000, gross assets no more than £2,000, and disposable monthly income no more than £75.
+
+156. [Wills, Intestacy & Probate]
+To make a valid will, the testator must be at least what age and possess mental capacity?
+A. 16
+B. 18
+C. 21
+D. 25
+Answer: B
+Explanation: The testator must be at least 18 years old, have mental capacity, and a clear intention to make a will.
+
+157. [Wills, Intestacy & Probate]
+If a witness to a will (or their spouse) is also named as a beneficiary, what happens?
+A. The entire will becomes invalid
+B. The will remains valid, but that witness's gift is void
+C. The witness must repay the gift to HMRC
+D. The executor automatically inherits the gift instead
+Answer: B
+Explanation: A witness, or the spouse or civil partner of a witness, cannot benefit under the will; the will itself remains valid, but that person's legacy fails.
+
+158. [Wills, Intestacy & Probate]
+What is the general effect of marriage on an existing will?
+A. Marriage has no effect on an existing will
+B. Marriage automatically revokes an existing will, unless it was made in contemplation of that marriage
+C. Marriage only revokes a will if both parties agree in writing
+D. Marriage automatically adds the new spouse as sole beneficiary
+Answer: B
+Explanation: Marriage automatically revokes an existing will, unless the will was specifically made in contemplation of that marriage.
+
+159. [Wills, Intestacy & Probate]
+What is the general effect of divorce on gifts and appointments (such as executor) made to a former spouse in a will?
+A. Divorce automatically revokes the entire will
+B. Gifts and appointments to the former spouse are treated as if they had died, unless the will states otherwise
+C. Divorce has no effect on the will whatsoever
+D. The former spouse automatically becomes the sole beneficiary
+Answer: B
+Explanation: Divorce does not revoke a will, but gifts to, and appointments of, a former spouse are treated as if that person had died, unless the will states otherwise.
+
+160. [Wills, Intestacy & Probate]
+Under the intestacy rules, the 28-day survivorship rule means that:
+A. A spouse must outlive the deceased by at least 28 days to inherit
+B. Children must wait 28 days before receiving any inheritance
+C. Probate must be applied for within 28 days of death
+D. Creditors have 28 days to make a claim against the estate
+Answer: A
+Explanation: Under intestacy, a spouse must outlive the deceased by at least 28 days in order to inherit under the survivorship rule.
+
+161. [Wills, Intestacy & Probate]
+Under the intestacy rules, at what age do children inherit absolutely?
+A. 16
+B. 18
+C. 21
+D. 25
+Answer: B
+Explanation: Under the statutory intestacy rules, children inherit absolutely at age 18.
+
+162. [Wills, Intestacy & Probate]
+Tom dies intestate, leaving a spouse and one child. His estate, excluding jointly owned assets, is valued at £900,000. Using a £322,000 statutory legacy, how much in total will the spouse receive, excluding personal chattels?
+A. £322,000
+B. £450,000
+C. £611,000
+D. £900,000
+Answer: C
+Explanation: The spouse receives the £322,000 statutory legacy plus half of the remaining £578,000 balance (£289,000), totalling £611,000, excluding chattels; the child takes the other half.
+
+163. [Wills, Intestacy & Probate]
+Under intestacy, if a person dies with no surviving spouse and no children, who is first in line to inherit the estate?
+A. The Crown, as bona vacantia
+B. Parents, equally if both are alive
+C. Grandparents
+D. Uncles and aunts of the half-blood
+Answer: B
+Explanation: Where there is no spouse or children, the estate passes in a fixed order, with parents (equally, if both alive) first in line.
+
+164. [Wills, Intestacy & Probate]
+Under small estates practice, balances can often be released without a formal grant of probate if they fall below approximately what amount set by law?
+A. £1,000
+B. £5,000
+C. £25,000
+D. £50,000
+Answer: B
+Explanation: Small cash or investment balances typically fall within small estates practice below £5,000 by law, although many institutions apply a higher internal limit.
+
+165. [Wills, Intestacy & Probate]
+For a deed of variation or disclaimer to be "read back" for inheritance tax purposes, it must generally be completed within how long after the date of death?
+A. 6 months
+B. 1 year
+C. 2 years
+D. 5 years
+Answer: C
+Explanation: A deed of variation or disclaimer must generally be completed within two years of death, with the correct legal statement, for it to be treated as if made by the deceased for IHT purposes.
+
+166. [Trusts]
+In a trust, who holds legal title to the assets and manages them under the trust deed?
+A. The settlor
+B. The trustee
+C. The beneficiary
+D. The remainderman
+Answer: B
+Explanation: Trustees hold legal title to the trust assets and must manage them in line with the trust's terms for the beneficiaries, while the settlor creates the trust and beneficiaries receive the benefit.
+
+167. [Trusts]
+If a settlor can still benefit from a trust they created, what is the main income tax consequence?
+A. The trust pays no tax at all on its income
+B. Income generated by the trust is taxed as though it belongs to the settlor
+C. Only the trustees are liable for income tax on trust income
+D. Income is automatically tax-free up to £325,000
+Answer: B
+Explanation: Where a trust is settlor-interested, any income it generates is taxed as though it belongs to the settlor, and the trust assets also remain part of the settlor's estate for IHT.
+
+168. [Trusts]
+In a bare (absolute) trust, the beneficiary:
+A. Has no rights until the trustees decide otherwise
+B. Is absolutely entitled, with trustees required to transfer the asset on demand once they turn 18
+C. Can never receive the trust assets
+D. Must wait until age 25 to receive anything
+Answer: B
+Explanation: In a bare or absolute trust, the beneficiary is absolutely entitled, and trustees simply look after the asset until the beneficiary turns 18, then transfer it on demand.
+
+169. [Trusts]
+In an interest in possession (IIP) trust, the "life tenant" is the person who:
+A. Has a present right to income or use of an asset for life, or until a stated event
+B. Will only inherit the capital after the life tenant dies
+C. Is responsible for paying inheritance tax on the trust
+D. Acts as the trust's professional adviser
+Answer: A
+Explanation: The life tenant has a present right to income from, or use of, the trust asset for life or until a stated event, such as reaching a certain age.
+
+170. [Trusts]
+In a life interest trust, the beneficiaries who become entitled to the capital once the life tenant's interest ends are known as:
+A. Settlors
+B. Trustees
+C. Remaindermen
+D. Appointees
+Answer: C
+Explanation: Remaindermen are the beneficiaries entitled to the trust capital once a prior interest, such as that of a life tenant, has ended.
+
+171. [Trusts]
+In a discretionary trust, who decides if, when and to whom income or capital is paid from the class of potential beneficiaries?
+A. HMRC
+B. The trustees
+C. The remaindermen
+D. The Financial Conduct Authority
+Answer: B
+Explanation: In a discretionary trust, the trustees decide if, when and to whom to pay income or capital, guided by a non-binding letter of wishes from the settlor.
+
+172. [Trusts]
+In a "split trust" used with combined life and critical illness policies, which element typically remains outside the trust?
+A. The life cover element
+B. The benefits payable while the insured is alive, such as critical illness cover
+C. The entire policy, including life cover
+D. Nothing; the whole policy is placed into trust
+Answer: B
+Explanation: In a split trust, benefits payable while the insured is alive, such as critical illness cover, remain outside the trust so the policyholder can access them, while the life cover element is held in trust for beneficiaries.
+
+173. [Trusts]
+A Married Women's Property Act (MWPA) trust:
+A. Must be set up by a solicitor using a formal trust deed
+B. Arises automatically where a life policy is taken out for the benefit of a spouse or children, and is protected from the policyholder's creditors
+C. Is only available to married women
+D. Forms part of the policyholder's estate for inheritance tax
+Answer: B
+Explanation: An MWPA trust arises automatically when a policy is taken out for the benefit of a spouse or children, with proceeds outside the estate for IHT and protected from the policyholder's creditors.
+
+174. [Trusts]
+For a designated account set up by a parent for their child, what is the threshold above which income is taxed as the parent's?
+A. £50 per year
+B. £100 per year
+C. £500 per year
+D. £1,000 per year
+Answer: B
+Explanation: If a parent provides the funds for a designated account, income above £100 a year is taxed as the parent's; if funded by someone else, such as a grandparent, the liability falls on the child.
+
+175. [Trusts]
+A settlor gives away their house into trust but continues to live there rent-free. Under the "reservation of benefit" rule, what is the effect for inheritance tax?
+A. The gift is immediately and fully outside the settlor's estate
+B. The value of the house is still counted as part of the settlor's estate
+C. The trust automatically becomes a bare trust
+D. No inheritance tax can ever apply to the property again
+Answer: B
+Explanation: If a settlor keeps back a benefit, such as living rent-free in a gifted property, the value of that asset is still counted in their estate for inheritance tax, unless they pay a full market rent.
+
+176. [Regulation: History & Bodies]
+Which of the following best distinguishes prudential regulation from conduct regulation?
+A. Prudential regulation focuses on financial resilience, while conduct regulation focuses on firms' behaviour towards customers
+B. Prudential regulation only applies to building societies
+C. Conduct regulation only applies to senior managers
+D. There is no meaningful difference between the two
+Answer: A
+Explanation: Prudential regulation focuses on a firm's financial resilience, such as capital and liquidity, while conduct regulation focuses on how firms treat customers.
+
+177. [Regulation: History & Bodies]
+The Financial Services Act 1986 introduced a regulatory framework that relied heavily on:
+A. A single statutory regulator with full enforcement powers
+B. Industry self-regulation through bodies such as the SIB and SROs
+C. The Prudential Regulation Authority
+D. The Senior Managers and Certification Regime
+Answer: B
+Explanation: The Financial Services Act 1986 introduced the first statutory framework but relied heavily on industry self-regulation through the Securities and Investments Board (SIB) and Self-Regulatory Organisations (SROs).
+
+178. [Regulation: History & Bodies]
+The collapse of Barings Bank in 1995 was triggered by the unauthorised activities of which trader?
+A. Bernie Madoff
+B. Nick Leeson
+C. Jérôme Kerviel
+D. Tom Hayes
+Answer: B
+Explanation: Barings Bank collapsed in 1995 due to the unauthorised speculative trading of Nick Leeson, based in the bank's Singapore office.
+
+179. [Regulation: History & Bodies]
+A key regulatory failing in the Barings Bank collapse was that Nick Leeson:
+A. Was based in London rather than overseas
+B. Controlled both the front office trading and back office settlement and reporting functions
+C. Had no access to any trading accounts
+D. Was supervised directly by the Bank of England at all times
+Answer: B
+Explanation: Leeson was both the chief trader and in charge of settlement and reporting, a complete breach of basic internal controls, allowing him to hide mounting losses.
+
+180. [Regulation: History & Bodies]
+Following its collapse, Barings Bank was bought by which institution, and for how much?
+A. ING, for £1
+B. HSBC, for £1 million
+C. Barclays, for £100
+D. The Bank of England, for £1 billion
+Answer: A
+Explanation: Barings collapsed within days once losses exceeded £800 million, and was bought by the Dutch bank ING for £1.
+
+181. [Regulation: History & Bodies]
+At the time of the Barings collapse, regulatory oversight of the bank's different activities was split between:
+A. The FCA and the PRA
+B. HM Treasury and the FCA
+C. The Bank of England and the Securities and Futures Authority
+D. The PRA and the Pensions Regulator
+Answer: C
+Explanation: At the time, no single regulator oversaw all of Barings' business; oversight was split between the Bank of England and the Securities and Futures Authority, causing confusion over accountability.
+
+182. [Regulation: History & Bodies]
+The Financial Services and Markets Act 2000 (FSMA 2000) is significant because it:
+A. Created the Financial Services Authority (FSA) as a single regulator
+B. Split regulation into the PRA and FCA "twin peaks" model
+C. Introduced the Senior Managers and Certification Regime
+D. Ended passporting rights for UK firms in the EU
+Answer: A
+Explanation: FSMA 2000 created the Financial Services Authority (FSA), bringing financial regulation under a single regulator for the first time.
+
+183. [Regulation: History & Bodies]
+The Financial Services Act 2012 introduced the current "twin peaks" model of regulation, splitting responsibilities between:
+A. HM Treasury and the Bank of England
+B. The PRA and the FCA
+C. The FCA and the Pensions Regulator
+D. The FPC and the CMA
+Answer: B
+Explanation: The Financial Services Act 2012 replaced the FSA with the "twin peaks" model, creating the Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA).
+
+184. [Regulation: History & Bodies]
+The Bank of England and Financial Services Act 2016 made which significant change?
+A. It abolished the FCA entirely
+B. It brought the PRA into the Bank of England and extended the SM&CR beyond banks and major insurers
+C. It introduced the Consumer Duty
+D. It created the Financial Ombudsman Service
+Answer: B
+Explanation: The 2016 Act brought the PRA into the Bank of England, overseen by the Prudential Regulation Committee, and extended the SM&CR across the wider industry.
+
+185. [Regulation: History & Bodies]
+The Financial Services and Markets Act 2023 (FSMA 2023) introduced a secondary objective for the FCA and PRA to:
+A. Eliminate consumer protection requirements
+B. Support the UK's long-term international competitiveness and growth
+C. Abolish the twin peaks model
+D. Transfer all regulatory powers to the European Union
+Answer: B
+Explanation: FSMA 2023 gave the FCA and PRA a secondary objective to support the UK's international competitiveness and growth, alongside their primary objectives of protection and stability.
+
+186. [Regulation: History & Bodies]
+Which body is responsible for UK financial services policy and is not itself a regulator, though the FCA is formally accountable to it?
+A. The Bank of England
+B. HM Treasury
+C. The Financial Policy Committee
+D. The Competition and Markets Authority
+Answer: B
+Explanation: HM Treasury is the government department responsible for financial services policy, and although it is not itself a regulator, the FCA is formally accountable to it.
+
+187. [Regulation: History & Bodies]
+The Prudential Regulation Authority (PRA) primarily supervises:
+A. All 50,000+ firms regulated by the FCA
+B. Banks, building societies, credit unions, major insurers and systemically important investment firms
+C. Only firms operating in the mortgage market
+D. Only firms involved in payment systems
+Answer: B
+Explanation: The PRA focuses on prudentially significant firms, such as banks, building societies, credit unions, major insurers and systemically important investment firms.
+
+188. [Regulation: History & Bodies]
+Approximately how many firms fall under the FCA's regulatory remit?
+A. 500
+B. 5,000
+C. 50,000
+D. 500,000
+Answer: C
+Explanation: Around 50,000 firms fall under the FCA's remit, covering conduct across wholesale and retail markets and prudential standards for many smaller firms.
+
+189. [Regulation: History & Bodies]
+The Financial Policy Committee (FPC), chaired by the Governor of the Bank of England, is primarily responsible for:
+A. Approving individual senior managers
+B. Macroprudential supervision, monitoring risks to the financial system as a whole
+C. Setting income tax rates
+D. Regulating workplace pension schemes
+Answer: B
+Explanation: The FPC focuses on macroprudential supervision, the "big picture" view of risks that could threaten the financial system as a whole.
+
+190. [Regulation: History & Bodies]
+Which regulatory body is described as an independent subsidiary of the FCA, focused specifically on UK payment systems?
+A. The Pensions Regulator (TPR)
+B. The Payment Systems Regulator (PSR)
+C. The Information Commissioner's Office (ICO)
+D. The Competition and Markets Authority (CMA)
+Answer: B
+Explanation: The Payment Systems Regulator (PSR) is an independent subsidiary of the FCA, focused on making UK payment systems reliable, efficient, competitive and innovative.
+
+191. [SM&CR & Conduct Rules]
+The Senior Managers and Certification Regime (SM&CR) was introduced primarily to:
+A. Reduce the number of firms regulated by the FCA
+B. Close the accountability gap exposed by cases such as Northern Rock, ensuring personal accountability for senior managers
+C. Replace the need for a Client Assets Sourcebook
+D. Remove the requirement for firms to hold capital buffers
+Answer: B
+Explanation: SM&CR ensures personal accountability for senior managers, closing the accountability gap that failures such as Northern Rock had previously exposed.
+
+192. [SM&CR & Conduct Rules]
+A Senior Management Function (SMF) within SM&CR must be:
+A. Self-certified by the firm with no regulatory involvement
+B. Pre-approved by the FCA, with a Statement of Responsibilities in place
+C. Open to anyone without a fitness and propriety check
+D. Reviewed only once, at the point of hire
+Answer: B
+Explanation: Defined Senior Management Functions must be pre-approved by the FCA, and each comes with a Statement of Responsibilities setting out the individual's areas of accountability.
+
+193. [SM&CR & Conduct Rules]
+To take enforcement action against a senior manager for failing their duty of responsibility, the regulator must show, on the balance of probability, that the senior manager:
+A. Was simply employed by the firm at the time of the breach
+B. Failed to take reasonable steps that could have prevented a breach in their area of responsibility
+C. Was not informed about the regulatory breach in advance
+D. Had previously worked at a different regulated firm
+Answer: B
+Explanation: The regulator must show the firm committed a breach, the individual held a senior role at the time, the breach occurred in their area of responsibility, and they failed to take reasonable steps that could have prevented it.
+
+194. [SM&CR & Conduct Rules]
+Under the Certification Regime, who is responsible for assessing whether an employee in a significant harm function is fit and proper?
+A. The FCA directly approves each individual
+B. The firm itself, reviewed at least annually
+C. The Financial Ombudsman Service
+D. The Pensions Regulator
+Answer: B
+Explanation: Unlike Senior Managers, certified staff are not approved by the FCA; instead the firm is responsible for assessing and certifying that they are fit and proper, reviewed at least once a year.
+
+195. [SM&CR & Conduct Rules]
+The FCA's Conduct Rules apply to almost all staff in a regulated firm, with the main exception being:
+A. Senior managers
+B. Client-facing advisers
+C. Ancillary roles such as receptionists, cleaners or security staff
+D. Material risk takers
+Answer: C
+Explanation: The Conduct Rules apply broadly across the workforce, with the exception of purely ancillary roles such as receptionists, cleaners or security staff.
+
+196. [SM&CR & Conduct Rules]
+Which of the following is one of the FCA's individual Conduct Rules?
+A. Maximise revenue regardless of customer outcomes
+B. Act with due skill, care and diligence
+C. Avoid all contact with the regulator unless legally compelled
+D. Treat ancillary staff as exempt from firm policies
+Answer: B
+Explanation: The Conduct Rules include acting with integrity, acting with due skill, care and diligence, being open and cooperative with regulators, treating customers fairly, observing proper market conduct, and delivering good outcomes under the Consumer Duty.
+
+197. [SM&CR & Conduct Rules]
+Under SM&CR firm categorisation, which tier applies the most extensive requirements, including additional Senior Management Functions and documentation?
+A. Limited scope
+B. Core
+C. Enhanced
+D. Baseline
+Answer: C
+Explanation: Firms are categorised as limited scope, core, or enhanced under SM&CR, with enhanced firms, the largest and most complex, facing additional SMF and documentation requirements.
+
+198. [SM&CR & Conduct Rules]
+A principal firm appointing a new Appointed Representative (AR) must notify the FCA at least how many days before the appointment?
+A. 7 days
+B. 14 days
+C. 30 days
+D. 90 days
+Answer: C
+Explanation: The FCA must be notified at least 30 days before an AR's appointment, including details of its role, clients and financial arrangements.
+
+199. [SM&CR & Conduct Rules]
+Under SM&CR, "fitness and propriety" assessments focus on which three key areas?
+A. Honesty/integrity/reputation, competence, and financial soundness
+B. Age, gender and length of service
+C. Educational background, salary and job title
+D. Firm size, location and number of clients
+Answer: A
+Explanation: Fitness and propriety assessments focus on honesty, integrity and reputation; competence and capability; and financial soundness.
+
+200. [SM&CR & Conduct Rules]
+Under the Client Assets Sourcebook (CASS), after how many years of inactivity on a client money balance may a firm transfer the remaining funds to a registered charity, subject to making reasonable contact attempts first?
+A. 1 year
+B. 3 years
+C. 6 years
+D. 10 years
+Answer: C
+Explanation: Firms may transfer long-dormant balances to a registered charity after six years of inactivity for money (twelve years for other assets), provided they have made reasonable attempts to contact the client first.
+
