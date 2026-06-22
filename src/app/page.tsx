@@ -165,8 +165,13 @@ export default function HomePage() {
               <WhatsIncluded />
               <PricingOptions showHeading={false} />
             </div>
-            <FaqSection className="mt-10" />
           </div>
+        </div>
+      </section>
+
+      <section className="bg-stone-100 px-6 py-16 md:py-20">
+        <div className="mx-auto max-w-3xl">
+          <FaqSection />
         </div>
       </section>
     </div>

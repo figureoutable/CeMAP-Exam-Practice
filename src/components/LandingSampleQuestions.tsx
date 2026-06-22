@@ -106,22 +106,17 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
 
   return (
     <SectionCard>
-      <div className="mb-4 space-y-3">
-        <div className="flex items-center justify-between gap-3">
-          <p className="text-sm font-medium text-blue-900">
-            Sample · Question {session.currentIndex + 1} of {SAMPLE_QUESTION_COUNT}
-          </p>
-          <button
-            type="button"
-            className="text-sm text-blue-600 hover:text-blue-800"
-            onClick={restartSample}
-          >
-            Restart
-          </button>
-        </div>
-        <div className="flex justify-center">
-          <KokonutBadge variant="category">{currentQuestion.category}</KokonutBadge>
-        </div>
+      <div className="mb-4 flex items-center justify-between gap-3">
+        <p className="text-sm font-medium text-blue-900">
+          Sample · Question {session.currentIndex + 1} of {SAMPLE_QUESTION_COUNT}
+        </p>
+        <button
+          type="button"
+          className="text-sm text-blue-600 hover:text-blue-800"
+          onClick={restartSample}
+        >
+          Restart
+        </button>
       </div>
 
       {currentQuestion.scenario ? (

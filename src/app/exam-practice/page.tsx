@@ -257,7 +257,11 @@ export default function ExamPracticePage() {
         </div>
       ) : null}
 
-      <QuestionCard category={currentQuestion.category} question={currentQuestion.question}>
+      <QuestionCard
+        category={currentQuestion.category}
+        question={currentQuestion.question}
+        showCategory={false}
+      >
         {options.map((option) => (
           <OptionButton
             key={option.displayLetter}

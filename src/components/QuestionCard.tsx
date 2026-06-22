@@ -7,16 +7,22 @@ interface QuestionCardProps {
   category: string;
   question: string;
   children: React.ReactNode;
+  showCategory?: boolean;
 }
 
-export function QuestionCard({ category, question, children }: QuestionCardProps) {
+export function QuestionCard({
+  category,
+  question,
+  children,
+  showCategory = true,
+}: QuestionCardProps) {
   return (
     <LiquidGlassCard
       glassSize="lg"
       className="rounded-md border border-blue-200 bg-white"
     >
       <div className="space-y-3">
-        <KokonutBadge variant="category">{category}</KokonutBadge>
+        {showCategory ? <KokonutBadge variant="category">{category}</KokonutBadge> : null}
         <p className="text-base font-medium leading-relaxed text-blue-950 sm:text-lg">
           {question}
         </p>

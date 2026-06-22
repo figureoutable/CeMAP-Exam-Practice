@@ -16,8 +16,12 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "CeMAP Part 1 Practice",
+  title: "CeMAP Practice Questions",
   description: "Interactive CeMAP Part 1 practice tests and exam simulations",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({

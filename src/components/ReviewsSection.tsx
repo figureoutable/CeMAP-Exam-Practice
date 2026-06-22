@@ -28,7 +28,7 @@ export function ReviewsSection() {
       <div className="grid gap-4 md:grid-cols-3">
         {reviews.map((review) => (
           <figure key={review.name} className="h-full">
-            <SectionCard className="flex h-full flex-col">
+            <SectionCard className="flex h-full flex-col bg-blue-50">
               <blockquote className="flex-1 text-base leading-relaxed text-blue-700">
                 &ldquo;{review.quote}&rdquo;
               </blockquote>

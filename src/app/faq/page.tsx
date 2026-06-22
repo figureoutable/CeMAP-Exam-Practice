@@ -3,9 +3,11 @@ import { PageHeader } from "@/components/PageHeader";
 
 export default function FaqPage() {
   return (
-    <div className="mx-auto w-full max-w-3xl px-4 py-8 sm:px-6">
-      <PageHeader title="FAQ" subtitle="Common questions about CeMAP Practice Questions." backHref="/" />
-      <FaqSection showHeading={false} />
+    <div className="bg-stone-100 min-h-full">
+      <div className="mx-auto w-full max-w-3xl px-4 py-8 sm:px-6">
+        <PageHeader title="FAQ" subtitle="Common questions about CeMAP Practice Questions." backHref="/" />
+        <FaqSection showHeading={false} />
+      </div>
     </div>
   );
 }
