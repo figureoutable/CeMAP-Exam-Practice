@@ -10,7 +10,7 @@ export default function PricingPage() {
         backHref="/"
       />
 
-      <PricingPlans />
+      <PricingPlans showSectionHeadings={false} />
     </div>
   );
 }

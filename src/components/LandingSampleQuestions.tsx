@@ -1,10 +1,10 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { SectionCard } from "@/components/SectionCard";
 import { KokonutBadge } from "@/components/kokonutui/kokonut-badge";
 import { AnswerFeedback } from "@/components/AnswerFeedback";
 import { OptionButton } from "@/components/OptionButton";
-import { QuestionCard } from "@/components/QuestionCard";
 import { SAMPLE_QUESTION_COUNT } from "@/lib/constants";
 import { addMistakeId } from "@/lib/storage";
 import {
@@ -82,7 +82,7 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
     const percentage = calculatePercentage(score, session.questionIds.length);
 
     return (
-      <div className="rounded-md border border-blue-200 bg-white p-6 text-center">
+      <SectionCard className="text-center">
         <p className="text-sm text-blue-700">Sample complete</p>
         <p className="mt-2 text-3xl font-bold text-blue-950">
           {score}/{session.questionIds.length}
@@ -95,7 +95,7 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
         >
           Try another 5
         </button>
-      </div>
+      </SectionCard>
     );
   }
 
@@ -105,22 +105,27 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
   const revealed = userAnswer !== null;
 
   return (
-    <div className="rounded-md border border-blue-200 bg-white p-4 sm:p-5">
-      <div className="mb-4 flex items-center justify-between gap-3">
-        <p className="text-sm font-medium text-blue-900">
-          Sample · Question {session.currentIndex + 1} of {SAMPLE_QUESTION_COUNT}
-        </p>
-        <button
-          type="button"
-          className="text-sm text-blue-600 hover:text-blue-800"
-          onClick={restartSample}
-        >
-          Restart
-        </button>
+    <SectionCard>
+      <div className="mb-4 space-y-3">
+        <div className="flex items-center justify-between gap-3">
+          <p className="text-sm font-medium text-blue-900">
+            Sample · Question {session.currentIndex + 1} of {SAMPLE_QUESTION_COUNT}
+          </p>
+          <button
+            type="button"
+            className="text-sm text-blue-600 hover:text-blue-800"
+            onClick={restartSample}
+          >
+            Restart
+          </button>
+        </div>
+        <div className="flex justify-center">
+          <KokonutBadge variant="category">{currentQuestion.category}</KokonutBadge>
+        </div>
       </div>
 
       {currentQuestion.scenario ? (
-        <div className="mt-4 rounded-md border border-blue-300 bg-blue-50 p-4">
+        <div className="mb-4 rounded-md border border-blue-300 bg-blue-50 p-4">
           {currentQuestion.caseStudyTitle ? (
             <div className="mb-2">
               <KokonutBadge variant="outline">{currentQuestion.caseStudyTitle}</KokonutBadge>
@@ -132,8 +137,11 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
         </div>
       ) : null}
 
-      <div className="mt-4">
-        <QuestionCard category={currentQuestion.category} question={currentQuestion.question}>
+      <div className="space-y-3">
+        <p className="text-base font-medium leading-relaxed text-blue-950 sm:text-lg">
+          {currentQuestion.question}
+        </p>
+        <div className="space-y-2">
           {options.map((option) => (
             <OptionButton
               key={option.displayLetter}
@@ -150,7 +158,7 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
               onSelect={() => setPendingSelection(option.originalLetter)}
             />
           ))}
-        </QuestionCard>
+        </div>
       </div>
 
       {!revealed && pendingSelection ? (
@@ -178,6 +186,6 @@ export function LandingSampleQuestions({ questions }: LandingSampleQuestionsProp
             : "Next question"}
         </button>
       ) : null}
-    </div>
+    </SectionCard>
   );
 }

@@ -5,7 +5,10 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { LandingSampleQuestions } from "@/components/LandingSampleQuestions";
 import { LandingWave } from "@/components/LandingWave";
+import { FaqSection } from "@/components/FaqSection";
+import { ReviewsSection } from "@/components/ReviewsSection";
 import { PricingOptions, WhatsIncluded } from "@/components/PricingPlans";
+import { SectionHeading } from "@/components/SectionCard";
 import { useQuestions } from "@/context/QuestionsContext";
 import { createAdaptiveSession } from "@/lib/adaptive-exam";
 import {
@@ -91,16 +94,15 @@ export default function HomePage() {
       </section>
 
       <section className="bg-white px-6 pb-16 pt-4 md:pb-20 md:pt-6">
-        <div className="mx-auto max-w-3xl md:px-4">
-          <div className="text-center">
-            <h2 className="font-heading text-3xl font-normal text-blue-950 sm:text-4xl md:text-5xl">
-              Choose your exam
-            </h2>
-            <p className="mx-auto mt-3 max-w-lg text-base text-blue-700">
+        <div className="mx-auto flex max-w-6xl flex-col space-y-10 md:px-4">
+          <div className="mx-auto w-full max-w-3xl">
+            <div className="text-center">
+              <SectionHeading className="text-center">Choose your exam</SectionHeading>
+            <p className="mx-auto mt-3 max-w-lg text-base leading-relaxed text-blue-700">
               Pick adaptive or a full exam paper, then try the sample below.
             </p>
 
-            <div className="mt-6 flex flex-col items-center justify-center gap-4 sm:flex-row sm:items-center sm:flex-wrap">
+            <div className="mt-6 flex flex-col items-center justify-center gap-4 sm:flex-row sm:flex-wrap sm:items-center">
               <div className="inline-flex h-10 rounded-full border border-blue-200 bg-blue-50 p-1">
                 {(["adaptive", "exam-paper"] as const).map((type) => (
                   <button
@@ -136,9 +138,10 @@ export default function HomePage() {
             </p>
           </div>
 
-          <div className="mt-12">
+          <section className="mt-10 space-y-6">
+            <SectionHeading className="text-center">Sample questions</SectionHeading>
             <LandingSampleQuestions questions={questions} />
-          </div>
+          </section>
 
           {mistakeCount > 0 ? (
             <div className="mt-6 text-center">
@@ -151,14 +154,19 @@ export default function HomePage() {
               </button>
             </div>
           ) : null}
-
-          <div className="mt-10">
-            <WhatsIncluded />
           </div>
-        </div>
 
-        <div className="mx-auto mt-6 max-w-3xl px-4 md:px-4">
-          <PricingOptions />
+          <div className="mx-auto w-full max-w-5xl">
+            <ReviewsSection />
+          </div>
+
+          <div className="mx-auto w-full max-w-3xl pt-6">
+            <div className="space-y-4">
+              <WhatsIncluded />
+              <PricingOptions showHeading={false} />
+            </div>
+            <FaqSection className="mt-10" />
+          </div>
         </div>
       </section>
     </div>
